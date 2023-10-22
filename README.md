@@ -9,7 +9,8 @@ COMP132 : Advanced Programming Programming Project Report
 1. Object Descriptions
 
 The user objects in this program are not declared under a main method. Instead, the Serializable interface is used to create a file named "user.ser," which allows the users to be stored in memory even outside of runtime. The program has 9 regular users and one administrator. Additionally, as specified in the project description document, each user can select and store photo objects from their computer. Below are two tables containing user information.
-<img width="912" alt="Ekran Resmi 2023-10-22 17 57 31" src="https://github.com/Damla-Gorgulu/Photo-Cloud/assets/
+
+<img width="505" alt="Ekran Resmi 2023-10-22 18 33 34" src="https://github.com/Damla-Gorgulu/Photo-Cloud/assets/127191236/a318140b-c946-43be-8579-c0dabd2db376">
 
 <img width="500" alt="Ekran Resmi 2023-10-22 18 09 07" src="https://github.com/Damla-Gorgulu/Photo-Cloud/assets/127191236/552e419f-c104-4207-874d-cbb322f9dbb3">
 
