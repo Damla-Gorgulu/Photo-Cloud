@@ -186,8 +186,21 @@ ImageIcon was used to display the photos on the buttons. I have gotten a better 
 ● Since the program has a memory formed by the files with the .ser extensions during the demonstration it is necessary to restart the program to switch users.
 
 References
-[1]https://www.youtube.com/watch?v=iE8tZ0hn2Ws [2]https://docs.oracle.com/javase/tutorial/uiswing/components/filechooser.html [3]https://www.javatpoint.com/java-joptionpan [4]https://www.codingninjas.com/codestudio/library/java-actionlistener [5]https://www.tutorialspoint.com/java_dip/grayscale_conversion.htm [6]https://docs.oracle.com/javase/tutorial/essential/concurrency/examples/ForkBlur.java [7]https://www.geeksforgeeks.org/java-program-to-increase-or-decrease-brightness-of-an-image/ [8]https://www.youtube.com/watch?v=YRz0sxCVx9A [9]https://www.geeksforgeeks.org/image-processing-in-java-contrast-enhancement/ [10]https://stackoverflow.com/questions/10105521/how-to-change-the-contrast-and-brightness-of-a n-image-stored-as-pixel-values [11]https://www.geeksforgeeks.org/image-processing-in-java- sharpness-enhancement/
-[12] https://www.baeldung.com/jvm-shutdown-hooks [13]https://www.eclipse.org/windowbuilder/ [14]https://www.youtube.com/watch?v=Kmgo00avvEw
+
+[1]https://www.youtube.com/watch?v=iE8tZ0hn2Ws 
+[2]https://docs.oracle.com/javase/tutorial/uiswing/components/filechooser.html 
+[3]https://www.javatpoint.com/java-joptionpan 
+[4]https://www.codingninjas.com/codestudio/library/java-actionlistener
+[5]https://www.tutorialspoint.com/java_dip/grayscale_conversion.htm
+[6]https://docs.oracle.com/javase/tutorial/essential/concurrency/examples/ForkBlur.java 
+[7]https://www.geeksforgeeks.org/java-program-to-increase-or-decrease-brightness-of-an-image/ 
+[8]https://www.youtube.com/watch?v=YRz0sxCVx9A 
+[9]https://www.geeksforgeeks.org/image-processing-in-java-contrast-enhancement/ 
+[10]https://stackoverflow.com/questions/10105521/how-to-change-the-contrast-and-brightness-of-a n-image-stored-as-pixel-values
+[11]https://www.geeksforgeeks.org/image-processing-in-java- sharpness-enhancement/
+[12] https://www.baeldung.com/jvm-shutdown-hooks 
+[13]https://www.eclipse.org/windowbuilder/ 
+[14]https://www.youtube.com/watch?v=Kmgo00avvEw
 
 NOTE: Further explanation regarding the classes can also be found in the comments.
 
