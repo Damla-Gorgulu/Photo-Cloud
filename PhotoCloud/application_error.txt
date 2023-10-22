@@ -1,0 +1,9 @@
+[Per May 25 18:22:57 TRT 2023] [INFO] Error: The username and password do not match!
+[Per May 25 18:23:15 TRT 2023] [INFO] Error: The username and password do not match!
+[Cum May 26 10:24:52 TRT 2023] [INFO] Error: The username and password do not match!
+[Cum May 26 10:25:18 TRT 2023] [INFO] Error: This username is taken. Please choose another one.
+[Cum May 26 10:25:32 TRT 2023] [INFO] Error: This email is taken. Please choose another one.
+[Cum May 26 10:44:11 TRT 2023] [INFO] Error: This email is taken. Please choose another one.
+[Cum May 26 10:44:32 TRT 2023] [INFO] Error: This username is taken. Please choose another one.
+[Paz Eki 22 16:03:21 TRT 2023] [INFO] Error: The username and password do not match!
+[Paz Eki 22 16:04:09 TRT 2023] [INFO] Error: password must be at least 6 characters long

@@ -1,0 +1,1343 @@
+[Per May 25 07:38:57 TRT 2023] [INFO] User list file does not exist. Creating a new empty list.
+[Per May 25 07:38:57 TRT 2023] [INFO] Media list file does not exist. Creating a new empty list.
+[Per May 25 07:39:16 TRT 2023] [INFO] Application shutdown at [Per May 25 07:39:16 TRT 2023]
+[Per May 25 07:40:05 TRT 2023] [INFO] User list file does not exist. Creating a new empty list.
+[Per May 25 07:40:05 TRT 2023] [INFO] Media list file does not exist. Creating a new empty list.
+[Per May 25 07:40:41 TRT 2023] [INFO] User chose a profile photo.
+[Per May 25 07:40:45 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:40:45 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:40:45 TRT 2023] [INFO] User signed up successfully.
+[Per May 25 07:40:45 TRT 2023] [INFO] User is viewing their profile page.
+[Per May 25 07:41:05 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_tiger.jpg
+[Per May 25 07:41:06 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:41:06 TRT 2023] [INFO] Damla's content was successfully updated.
+[Per May 25 07:41:06 TRT 2023] [INFO] Damla uploaded a private photo.
+[Per May 25 07:41:08 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_tiger.jpg
+[Per May 25 07:41:08 TRT 2023] [INFO] Edit frame is openedd.
+[Per May 25 07:41:12 TRT 2023] [INFO] Image successfully converted to image matrix.
+[Per May 25 07:41:13 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_tiger.jpg
+[Per May 25 07:41:16 TRT 2023] [INFO] Image successfully converted to image matrix.
+[Per May 25 07:41:17 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_Editedcopy_of_tiger.jpg
+[Per May 25 07:41:19 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:41:19 TRT 2023] [INFO] Damla's content was successfully updated.
+[Per May 25 07:41:19 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:41:31 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:41:31 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:41:31 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:41:33 TRT 2023] [INFO] Damla's photos are added to the discover page forDamlato see.
+[Per May 25 07:41:33 TRT 2023] [INFO] Damla is now viewing the discover page.
+[Per May 25 07:41:36 TRT 2023] [INFO] Application shutdown at [Per May 25 07:41:36 TRT 2023]
+[Per May 25 07:41:40 TRT 2023] [INFO] User list deserialized successfully!
+[Per May 25 07:41:40 TRT 2023] [INFO] Media list deserialized successfully!
+[Per May 25 07:42:45 TRT 2023] [INFO] User chose a profile photo.
+[Per May 25 07:42:47 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:42:47 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:42:47 TRT 2023] [INFO] User signed up successfully.
+[Per May 25 07:42:47 TRT 2023] [INFO] User is viewing their profile page.
+[Per May 25 07:43:12 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_videogame.jpeg
+[Per May 25 07:43:12 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:43:12 TRT 2023] [INFO] Eren's content was successfully updated.
+[Per May 25 07:43:12 TRT 2023] [INFO] Eren uploaded a private photo.
+[Per May 25 07:43:14 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_videogame.jpeg
+[Per May 25 07:43:14 TRT 2023] [INFO] Edit frame is openedd.
+[Per May 25 07:43:19 TRT 2023] [INFO] Image successfully converted to image matrix.
+[Per May 25 07:43:19 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_videogame.jpeg
+[Per May 25 07:43:23 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:43:23 TRT 2023] [INFO] Eren's content was successfully updated.
+[Per May 25 07:43:23 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:43:29 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:43:29 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:43:29 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:43:30 TRT 2023] [INFO] Application shutdown at [Per May 25 07:43:30 TRT 2023]
+[Per May 25 07:43:34 TRT 2023] [INFO] User list deserialized successfully!
+[Per May 25 07:43:34 TRT 2023] [INFO] Media list deserialized successfully!
+[Per May 25 07:44:05 TRT 2023] [INFO] User chose a profile photo.
+[Per May 25 07:44:06 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:44:06 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:44:06 TRT 2023] [INFO] User signed up successfully.
+[Per May 25 07:44:07 TRT 2023] [INFO] User is viewing their profile page.
+[Per May 25 07:44:19 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_race.jpeg
+[Per May 25 07:44:19 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:44:19 TRT 2023] [INFO] Karya's content was successfully updated.
+[Per May 25 07:44:19 TRT 2023] [INFO] Karya uploaded a private photo.
+[Per May 25 07:44:23 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_race.jpeg
+[Per May 25 07:44:23 TRT 2023] [INFO] Edit frame is openedd.
+[Per May 25 07:44:26 TRT 2023] [INFO] Image successfully converted to image matrix.
+[Per May 25 07:44:27 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_race.jpeg
+[Per May 25 07:44:29 TRT 2023] [INFO] Image successfully converted to image matrix.
+[Per May 25 07:44:31 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_Editedcopy_of_race.jpeg
+[Per May 25 07:44:33 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:44:33 TRT 2023] [INFO] Karya's content was successfully updated.
+[Per May 25 07:44:33 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:44:36 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_race.jpeg
+[Per May 25 07:44:36 TRT 2023] [INFO] Edit frame is openedd.
+[Per May 25 07:44:54 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:44:54 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:44:58 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:44:58 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:44:58 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:45:00 TRT 2023] [INFO] Damla's photos are added to the discover page forKaryato see.
+[Per May 25 07:45:00 TRT 2023] [INFO] Eren's photos are added to the discover page forKaryato see.
+[Per May 25 07:45:00 TRT 2023] [INFO] Karya's photos are added to the discover page forKaryato see.
+[Per May 25 07:45:00 TRT 2023] [INFO] Karya is now viewing the discover page.
+[Per May 25 07:45:04 TRT 2023] [INFO] Karya visited their own profile page.
+[Per May 25 07:45:07 TRT 2023] [INFO] Damla's photos are added to the discover page forKaryato see.
+[Per May 25 07:45:07 TRT 2023] [INFO] Eren's photos are added to the discover page forKaryato see.
+[Per May 25 07:45:07 TRT 2023] [INFO] Karya's photos are added to the discover page forKaryato see.
+[Per May 25 07:45:07 TRT 2023] [INFO] Karya is now viewing the discover page.
+[Per May 25 07:45:08 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:45:08 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:45:08 TRT 2023] [INFO] Karya liked Eren's photo.
+[Per May 25 07:45:10 TRT 2023] [INFO] Application shutdown at [Per May 25 07:45:10 TRT 2023]
+[Per May 25 07:45:14 TRT 2023] [INFO] User list deserialized successfully!
+[Per May 25 07:45:14 TRT 2023] [INFO] Media list deserialized successfully!
+[Per May 25 07:46:00 TRT 2023] [INFO] User chose a profile photo.
+[Per May 25 07:46:02 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:46:02 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:46:02 TRT 2023] [INFO] User signed up successfully.
+[Per May 25 07:46:02 TRT 2023] [INFO] User is viewing their profile page.
+[Per May 25 07:46:19 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_art.jpeg
+[Per May 25 07:46:19 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:46:19 TRT 2023] [INFO] Umut's content was successfully updated.
+[Per May 25 07:46:19 TRT 2023] [INFO] Umut uploaded a private photo.
+[Per May 25 07:46:30 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_art.jpeg
+[Per May 25 07:46:30 TRT 2023] [INFO] Edit frame is openedd.
+[Per May 25 07:46:34 TRT 2023] [INFO] Image successfully converted to image matrix.
+[Per May 25 07:46:34 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_art.jpeg
+[Per May 25 07:46:36 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:46:36 TRT 2023] [INFO] Umut's content was successfully updated.
+[Per May 25 07:46:36 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:47:11 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:47:11 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:47:14 TRT 2023] [INFO] Damla's photos are added to the discover page forUmutto see.
+[Per May 25 07:47:14 TRT 2023] [INFO] Eren's photos are added to the discover page forUmutto see.
+[Per May 25 07:47:14 TRT 2023] [INFO] Karya's photos are added to the discover page forUmutto see.
+[Per May 25 07:47:14 TRT 2023] [INFO] Umut's photos are added to the discover page forUmutto see.
+[Per May 25 07:47:14 TRT 2023] [INFO] Umut is now viewing the discover page.
+[Per May 25 07:47:17 TRT 2023] [INFO] Umut visited their own profile page.
+[Per May 25 07:47:19 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:47:19 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:47:19 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:47:22 TRT 2023] [INFO] Application shutdown at [Per May 25 07:47:22 TRT 2023]
+[Per May 25 07:47:25 TRT 2023] [INFO] User list deserialized successfully!
+[Per May 25 07:47:25 TRT 2023] [INFO] Media list deserialized successfully!
+[Per May 25 07:48:14 TRT 2023] [INFO] User chose a profile photo.
+[Per May 25 07:48:16 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:48:16 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:48:16 TRT 2023] [INFO] User signed up successfully.
+[Per May 25 07:48:17 TRT 2023] [INFO] User is viewing their profile page.
+[Per May 25 07:48:32 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_dog.jpg
+[Per May 25 07:48:32 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:48:32 TRT 2023] [INFO] Yagiz's content was successfully updated.
+[Per May 25 07:48:32 TRT 2023] [INFO] Yagiz uploaded a private photo.
+[Per May 25 07:48:34 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_dog.jpg
+[Per May 25 07:48:34 TRT 2023] [INFO] Edit frame is openedd.
+[Per May 25 07:48:39 TRT 2023] [INFO] Image successfully converted to image matrix.
+[Per May 25 07:48:39 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_dog.jpg
+[Per May 25 07:48:41 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:48:41 TRT 2023] [INFO] Yagiz's content was successfully updated.
+[Per May 25 07:48:42 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:48:47 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:48:47 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:48:47 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:48:51 TRT 2023] [INFO] Application shutdown at [Per May 25 07:48:51 TRT 2023]
+[Per May 25 07:48:55 TRT 2023] [INFO] User list deserialized successfully!
+[Per May 25 07:48:55 TRT 2023] [INFO] Media list deserialized successfully!
+[Per May 25 07:49:34 TRT 2023] [INFO] User chose a profile photo.
+[Per May 25 07:49:36 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:49:36 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:49:36 TRT 2023] [INFO] User signed up successfully.
+[Per May 25 07:49:36 TRT 2023] [INFO] User is viewing their profile page.
+[Per May 25 07:50:17 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_cat.jpeg
+[Per May 25 07:50:17 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:50:17 TRT 2023] [INFO] Yigit's content was successfully updated.
+[Per May 25 07:50:17 TRT 2023] [INFO] Yigit uploaded a private photo.
+[Per May 25 07:50:19 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_cat.jpeg
+[Per May 25 07:50:19 TRT 2023] [INFO] Edit frame is openedd.
+[Per May 25 07:50:22 TRT 2023] [INFO] Image successfully converted to image matrix.
+[Per May 25 07:50:23 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_cat.jpeg
+[Per May 25 07:50:24 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:50:24 TRT 2023] [INFO] Yigit's content was successfully updated.
+[Per May 25 07:50:24 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:50:27 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:50:27 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:50:27 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:50:30 TRT 2023] [INFO] Damla's photos are added to the discover page forYigitto see.
+[Per May 25 07:50:30 TRT 2023] [INFO] Eren's photos are added to the discover page forYigitto see.
+[Per May 25 07:50:30 TRT 2023] [INFO] Karya's photos are added to the discover page forYigitto see.
+[Per May 25 07:50:30 TRT 2023] [INFO] Umut's photos are added to the discover page forYigitto see.
+[Per May 25 07:50:30 TRT 2023] [INFO] Yagiz's photos are added to the discover page forYigitto see.
+[Per May 25 07:50:30 TRT 2023] [INFO] Yigit's photos are added to the discover page forYigitto see.
+[Per May 25 07:50:31 TRT 2023] [INFO] Yigit is now viewing the discover page.
+[Per May 25 07:50:33 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:50:33 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:50:33 TRT 2023] [INFO] Yigit liked Yagiz's photo.
+[Per May 25 07:50:37 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:50:37 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:50:37 TRT 2023] [INFO] Yigit liked Damla's photo.
+[Per May 25 07:50:40 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:50:40 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:50:40 TRT 2023] [INFO] Yigit liked Eren's photo.
+[Per May 25 07:50:42 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:50:42 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:50:42 TRT 2023] [INFO] Yigit liked Karya's photo.
+[Per May 25 07:50:44 TRT 2023] [INFO] Application shutdown at [Per May 25 07:50:44 TRT 2023]
+[Per May 25 07:50:48 TRT 2023] [INFO] User list deserialized successfully!
+[Per May 25 07:50:48 TRT 2023] [INFO] Media list deserialized successfully!
+[Per May 25 07:51:31 TRT 2023] [INFO] User chose a profile photo.
+[Per May 25 07:51:32 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:51:33 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:51:33 TRT 2023] [INFO] User signed up successfully.
+[Per May 25 07:51:33 TRT 2023] [INFO] User is viewing their profile page.
+[Per May 25 07:51:44 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_ferrari.jpeg
+[Per May 25 07:51:45 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:51:45 TRT 2023] [INFO] Idil's content was successfully updated.
+[Per May 25 07:51:45 TRT 2023] [INFO] Idil uploaded a private photo.
+[Per May 25 07:51:54 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:51:54 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:51:58 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_ferrari.jpeg
+[Per May 25 07:51:58 TRT 2023] [INFO] Edit frame is openedd.
+[Per May 25 07:52:03 TRT 2023] [INFO] Image successfully converted to image matrix.
+[Per May 25 07:52:03 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_ferrari.jpeg
+[Per May 25 07:52:06 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:52:06 TRT 2023] [INFO] Idil's content was successfully updated.
+[Per May 25 07:52:06 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:52:10 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:52:10 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:52:10 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:52:12 TRT 2023] [INFO] Application shutdown at [Per May 25 07:52:12 TRT 2023]
+[Per May 25 07:52:15 TRT 2023] [INFO] User list deserialized successfully!
+[Per May 25 07:52:15 TRT 2023] [INFO] Media list deserialized successfully!
+[Per May 25 07:52:44 TRT 2023] [INFO] User chose a profile photo.
+[Per May 25 07:52:46 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:52:46 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:52:46 TRT 2023] [INFO] User signed up successfully.
+[Per May 25 07:52:46 TRT 2023] [INFO] User is viewing their profile page.
+[Per May 25 07:53:03 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_restaurant.jpeg
+[Per May 25 07:53:03 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:53:03 TRT 2023] [INFO] Dila's content was successfully updated.
+[Per May 25 07:53:03 TRT 2023] [INFO] Dila uploaded a private photo.
+[Per May 25 07:53:17 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:53:17 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:53:24 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_restaurant.jpeg
+[Per May 25 07:53:24 TRT 2023] [INFO] Edit frame is openedd.
+[Per May 25 07:53:27 TRT 2023] [INFO] Image successfully converted to image matrix.
+[Per May 25 07:53:27 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_restaurant.jpeg
+[Per May 25 07:53:29 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:53:29 TRT 2023] [INFO] Dila's content was successfully updated.
+[Per May 25 07:53:29 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:53:31 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:53:31 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:53:31 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:53:33 TRT 2023] [INFO] Damla's photos are added to the discover page forDilato see.
+[Per May 25 07:53:33 TRT 2023] [INFO] Eren's photos are added to the discover page forDilato see.
+[Per May 25 07:53:33 TRT 2023] [INFO] Karya's photos are added to the discover page forDilato see.
+[Per May 25 07:53:33 TRT 2023] [INFO] Umut's photos are added to the discover page forDilato see.
+[Per May 25 07:53:33 TRT 2023] [INFO] Yagiz's photos are added to the discover page forDilato see.
+[Per May 25 07:53:33 TRT 2023] [INFO] Yigit's photos are added to the discover page forDilato see.
+[Per May 25 07:53:33 TRT 2023] [INFO] Idil's photos are added to the discover page forDilato see.
+[Per May 25 07:53:33 TRT 2023] [INFO] Dila's photos are added to the discover page forDilato see.
+[Per May 25 07:53:34 TRT 2023] [INFO] Dila is now viewing the discover page.
+[Per May 25 07:53:35 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:53:35 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:53:35 TRT 2023] [INFO] Dila liked Damla's photo.
+[Per May 25 07:53:37 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:53:37 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:53:37 TRT 2023] [INFO] Dila liked Umut's photo.
+[Per May 25 07:53:44 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:53:44 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:53:50 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:53:50 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:53:50 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:53:50 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:53:50 TRT 2023] [INFO] Dilacommented on Yigit's photo.
+[Per May 25 07:54:09 TRT 2023] [INFO] Application shutdown at [Per May 25 07:54:09 TRT 2023]
+[Per May 25 07:54:15 TRT 2023] [INFO] User list deserialized successfully!
+[Per May 25 07:54:15 TRT 2023] [INFO] Media list deserialized successfully!
+[Per May 25 07:54:55 TRT 2023] [INFO] User chose a profile photo.
+[Per May 25 07:54:56 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:54:56 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:54:56 TRT 2023] [INFO] User signed up successfully.
+[Per May 25 07:54:57 TRT 2023] [INFO] User is viewing their profile page.
+[Per May 25 07:55:15 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_cafe.jpeg
+[Per May 25 07:55:15 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:55:15 TRT 2023] [INFO] Bullet's content was successfully updated.
+[Per May 25 07:55:15 TRT 2023] [INFO] Bullet uploaded a private photo.
+[Per May 25 07:55:41 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:55:41 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:55:49 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_cafe.jpeg
+[Per May 25 07:55:49 TRT 2023] [INFO] Edit frame is openedd.
+[Per May 25 07:56:06 TRT 2023] [INFO] Image successfully converted to image matrix.
+[Per May 25 07:56:06 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_cafe.jpeg
+[Per May 25 07:56:11 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_cafe.jpeg
+[Per May 25 07:56:11 TRT 2023] [INFO] Edit frame is openedd.
+[Per May 25 07:56:17 TRT 2023] [INFO] Image successfully converted to image matrix.
+[Per May 25 07:56:18 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_cafe.jpeg
+[Per May 25 07:56:23 TRT 2023] [INFO] Image successfully converted to image matrix.
+[Per May 25 07:56:23 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_Editedcopy_of_cafe.jpeg
+[Per May 25 07:56:25 TRT 2023] [INFO] Image successfully converted to image matrix.
+[Per May 25 07:56:26 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_Editedcopy_of_Editedcopy_of_cafe.jpeg
+[Per May 25 07:56:27 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:56:27 TRT 2023] [INFO] Bullet's content was successfully updated.
+[Per May 25 07:56:27 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:56:29 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:56:29 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:56:29 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:56:30 TRT 2023] [INFO] Damla's photos are added to the discover page forBulletto see.
+[Per May 25 07:56:30 TRT 2023] [INFO] Eren's photos are added to the discover page forBulletto see.
+[Per May 25 07:56:30 TRT 2023] [INFO] Karya's photos are added to the discover page forBulletto see.
+[Per May 25 07:56:30 TRT 2023] [INFO] Umut's photos are added to the discover page forBulletto see.
+[Per May 25 07:56:30 TRT 2023] [INFO] Yagiz's photos are added to the discover page forBulletto see.
+[Per May 25 07:56:30 TRT 2023] [INFO] Yigit's photos are added to the discover page forBulletto see.
+[Per May 25 07:56:30 TRT 2023] [INFO] Idil's photos are added to the discover page forBulletto see.
+[Per May 25 07:56:30 TRT 2023] [INFO] Dila's photos are added to the discover page forBulletto see.
+[Per May 25 07:56:30 TRT 2023] [INFO] Bullet's photos are added to the discover page forBulletto see.
+[Per May 25 07:56:31 TRT 2023] [INFO] Bullet is now viewing the discover page.
+[Per May 25 07:56:33 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:56:33 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:56:40 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:56:40 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:56:40 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:56:40 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:56:40 TRT 2023] [INFO] Bulletcommented on Eren's photo.
+[Per May 25 07:56:43 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:56:43 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:56:43 TRT 2023] [INFO] Bullet liked Eren's photo.
+[Per May 25 07:56:45 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:56:45 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:56:45 TRT 2023] [INFO] Bullet liked Karya's photo.
+[Per May 25 07:56:48 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:56:48 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:56:48 TRT 2023] [INFO] Bullet liked Yagiz's photo.
+[Per May 25 07:56:51 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:56:51 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:56:51 TRT 2023] [INFO] Bullet liked Idil's photo.
+[Per May 25 07:56:51 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:56:51 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:56:51 TRT 2023] [INFO] Bullet liked Idil's photo.
+[Per May 25 07:56:59 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:56:59 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:56:59 TRT 2023] [INFO] Bullet liked Dila's photo.
+[Per May 25 07:57:06 TRT 2023] [INFO] Yigit's media list is added to their profile.
+[Per May 25 07:57:06 TRT 2023] [INFO] Bullet visited Bullet's profile.
+[Per May 25 07:57:07 TRT 2023] [INFO] Bulletreturned to their discovery page.
+[Per May 25 07:57:08 TRT 2023] [INFO] Bullet visited their own profile page.
+[Per May 25 07:57:10 TRT 2023] [INFO] Application shutdown at [Per May 25 07:57:10 TRT 2023]
+[Per May 25 07:57:13 TRT 2023] [INFO] User list deserialized successfully!
+[Per May 25 07:57:13 TRT 2023] [INFO] Media list deserialized successfully!
+[Per May 25 07:57:54 TRT 2023] [INFO] User chose a profile photo.
+[Per May 25 07:57:55 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:57:55 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:57:55 TRT 2023] [INFO] User signed up successfully.
+[Per May 25 07:57:55 TRT 2023] [INFO] User is viewing their profile page.
+[Per May 25 07:58:08 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_bbq.jpeg
+[Per May 25 07:58:08 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:58:08 TRT 2023] [INFO] Excalibur's content was successfully updated.
+[Per May 25 07:58:08 TRT 2023] [INFO] Excalibur uploaded a private photo.
+[Per May 25 07:58:11 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_bbq.jpeg
+[Per May 25 07:58:11 TRT 2023] [INFO] Edit frame is openedd.
+[Per May 25 07:58:19 TRT 2023] [INFO] Image successfully converted to image matrix.
+[Per May 25 07:58:19 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_bbq.jpeg
+[Per May 25 07:58:22 TRT 2023] [INFO] Image successfully converted to image matrix.
+[Per May 25 07:58:22 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_Editedcopy_of_bbq.jpeg
+[Per May 25 07:58:27 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:58:27 TRT 2023] [INFO] Excalibur's content was successfully updated.
+[Per May 25 07:58:27 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:58:34 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:58:34 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:58:34 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:58:35 TRT 2023] [INFO] Damla's photos are added to the discover page forExcaliburto see.
+[Per May 25 07:58:35 TRT 2023] [INFO] Eren's photos are added to the discover page forExcaliburto see.
+[Per May 25 07:58:35 TRT 2023] [INFO] Karya's photos are added to the discover page forExcaliburto see.
+[Per May 25 07:58:35 TRT 2023] [INFO] Umut's photos are added to the discover page forExcaliburto see.
+[Per May 25 07:58:35 TRT 2023] [INFO] Yagiz's photos are added to the discover page forExcaliburto see.
+[Per May 25 07:58:35 TRT 2023] [INFO] Yigit's photos are added to the discover page forExcaliburto see.
+[Per May 25 07:58:35 TRT 2023] [INFO] Idil's photos are added to the discover page forExcaliburto see.
+[Per May 25 07:58:35 TRT 2023] [INFO] Dila's photos are added to the discover page forExcaliburto see.
+[Per May 25 07:58:35 TRT 2023] [INFO] Bullet's photos are added to the discover page forExcaliburto see.
+[Per May 25 07:58:35 TRT 2023] [INFO] Excalibur's photos are added to the discover page forExcaliburto see.
+[Per May 25 07:58:37 TRT 2023] [INFO] Excalibur is now viewing the discover page.
+[Per May 25 07:58:46 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 07:58:46 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 07:58:46 TRT 2023] [INFO] Excalibur liked Idil's photo.
+[Per May 25 07:58:52 TRT 2023] [INFO] Bullet's media list is added to their profile.
+[Per May 25 07:58:52 TRT 2023] [INFO] Bullet's media list is added to their profile.
+[Per May 25 07:58:52 TRT 2023] [INFO] Excaliburvisited Bullet's profile.
+[Per May 25 07:58:53 TRT 2023] [INFO] Damla's photos are added to the discover page forExcaliburto see.
+[Per May 25 07:58:53 TRT 2023] [INFO] Eren's photos are added to the discover page forExcaliburto see.
+[Per May 25 07:58:53 TRT 2023] [INFO] Karya's photos are added to the discover page forExcaliburto see.
+[Per May 25 07:58:53 TRT 2023] [INFO] Umut's photos are added to the discover page forExcaliburto see.
+[Per May 25 07:58:53 TRT 2023] [INFO] Yagiz's photos are added to the discover page forExcaliburto see.
+[Per May 25 07:58:53 TRT 2023] [INFO] Yigit's photos are added to the discover page forExcaliburto see.
+[Per May 25 07:58:53 TRT 2023] [INFO] Idil's photos are added to the discover page forExcaliburto see.
+[Per May 25 07:58:53 TRT 2023] [INFO] Dila's photos are added to the discover page forExcaliburto see.
+[Per May 25 07:58:53 TRT 2023] [INFO] Bullet's photos are added to the discover page forExcaliburto see.
+[Per May 25 07:58:53 TRT 2023] [INFO] Excalibur's photos are added to the discover page forExcaliburto see.
+[Per May 25 07:58:55 TRT 2023] [INFO] Excaliburreturned to their discovery page.
+[Per May 25 07:59:22 TRT 2023] [INFO] Application shutdown at [Per May 25 07:59:22 TRT 2023]
+[Per May 25 13:07:21 TRT 2023] [INFO] User list deserialized successfully!
+[Per May 25 13:07:21 TRT 2023] [INFO] Media list deserialized successfully!
+[Per May 25 13:07:32 TRT 2023] [INFO] Damla's photos were successfully added to their profile page.
+[Per May 25 13:07:32 TRT 2023] [INFO] Damla's photos were successfully added to their profile page.
+[Per May 25 13:07:32 TRT 2023] [INFO] Damla has successfully logged in.
+[Per May 25 13:08:02 TRT 2023] [INFO] Damla's photos are added to the discover page forDamlato see.
+[Per May 25 13:08:02 TRT 2023] [INFO] Eren's photos are added to the discover page forDamlato see.
+[Per May 25 13:08:02 TRT 2023] [INFO] Karya's photos are added to the discover page forDamlato see.
+[Per May 25 13:08:02 TRT 2023] [INFO] Umut's photos are added to the discover page forDamlato see.
+[Per May 25 13:08:02 TRT 2023] [INFO] Yagiz's photos are added to the discover page forDamlato see.
+[Per May 25 13:08:02 TRT 2023] [INFO] Yigit's photos are added to the discover page forDamlato see.
+[Per May 25 13:08:02 TRT 2023] [INFO] Idil's photos are added to the discover page forDamlato see.
+[Per May 25 13:08:02 TRT 2023] [INFO] Dila's photos are added to the discover page forDamlato see.
+[Per May 25 13:08:02 TRT 2023] [INFO] Bullet's photos are added to the discover page forDamlato see.
+[Per May 25 13:08:02 TRT 2023] [INFO] Excalibur's photos are added to the discover page forDamlato see.
+[Per May 25 13:08:03 TRT 2023] [INFO] Damla is now viewing the discover page.
+[Per May 25 13:08:08 TRT 2023] [INFO] Application shutdown at [Per May 25 13:08:08 TRT 2023]
+[Per May 25 18:22:37 TRT 2023] [INFO] User list deserialized successfully!
+[Per May 25 18:22:37 TRT 2023] [INFO] Media list deserialized successfully!
+[Per May 25 18:23:28 TRT 2023] [INFO] Damla's photos were successfully added to their profile page.
+[Per May 25 18:23:28 TRT 2023] [INFO] Damla's photos were successfully added to their profile page.
+[Per May 25 18:23:28 TRT 2023] [INFO] Damla has successfully logged in.
+[Per May 25 18:23:57 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_Editedcopy_of_Editedcopy_of_tiger.jpg
+[Per May 25 18:23:57 TRT 2023] [INFO] Edit frame is openedd.
+[Per May 25 18:24:03 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_tiger.jpg
+[Per May 25 18:24:03 TRT 2023] [INFO] Edit frame is openedd.
+[Per May 25 18:24:06 TRT 2023] [INFO] Damla's photos are added to the discover page forDamlato see.
+[Per May 25 18:24:06 TRT 2023] [INFO] Eren's photos are added to the discover page forDamlato see.
+[Per May 25 18:24:06 TRT 2023] [INFO] Karya's photos are added to the discover page forDamlato see.
+[Per May 25 18:24:06 TRT 2023] [INFO] Umut's photos are added to the discover page forDamlato see.
+[Per May 25 18:24:06 TRT 2023] [INFO] Yagiz's photos are added to the discover page forDamlato see.
+[Per May 25 18:24:06 TRT 2023] [INFO] Yigit's photos are added to the discover page forDamlato see.
+[Per May 25 18:24:06 TRT 2023] [INFO] Idil's photos are added to the discover page forDamlato see.
+[Per May 25 18:24:06 TRT 2023] [INFO] Dila's photos are added to the discover page forDamlato see.
+[Per May 25 18:24:06 TRT 2023] [INFO] Bullet's photos are added to the discover page forDamlato see.
+[Per May 25 18:24:06 TRT 2023] [INFO] Excalibur's photos are added to the discover page forDamlato see.
+[Per May 25 18:24:07 TRT 2023] [INFO] Damla is now viewing the discover page.
+[Per May 25 18:24:12 TRT 2023] [INFO] Yagiz's media list is added to their profile.
+[Per May 25 18:24:12 TRT 2023] [INFO] Damlavisited Yagiz's profile.
+[Per May 25 18:24:21 TRT 2023] [INFO] Damlareturned to their discovery page.
+[Per May 25 18:25:00 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 18:25:00 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 18:25:00 TRT 2023] [INFO] Damla disliked Yagiz's photo.
+[Per May 25 18:25:00 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 18:25:00 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 18:25:00 TRT 2023] [INFO] Damla disliked Yagiz's photo.
+[Per May 25 18:25:02 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 18:25:02 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 18:25:02 TRT 2023] [INFO] Damla disliked Yagiz's photo.
+[Per May 25 18:25:02 TRT 2023] [INFO] User list serialized successfully!
+[Per May 25 18:25:02 TRT 2023] [INFO] Media list serialized successfully!
+[Per May 25 18:25:02 TRT 2023] [INFO] Damla disliked Yagiz's photo.
+[Per May 25 18:25:27 TRT 2023] [INFO] Application shutdown at [Per May 25 18:25:27 TRT 2023]
+[Per May 25 18:25:32 TRT 2023] [INFO] User list deserialized successfully!
+[Per May 25 18:25:32 TRT 2023] [INFO] Media list deserialized successfully!
+[Per May 25 18:25:44 TRT 2023] [INFO] Yigit's photos were successfully added to their profile page.
+[Per May 25 18:25:44 TRT 2023] [INFO] Yigit's photos were successfully added to their profile page.
+[Per May 25 18:25:44 TRT 2023] [INFO] Yigit has successfully logged in.
+[Per May 25 18:26:17 TRT 2023] [INFO] Damla's photos are added to the discover page forYigitto see.
+[Per May 25 18:26:17 TRT 2023] [INFO] Eren's photos are added to the discover page forYigitto see.
+[Per May 25 18:26:17 TRT 2023] [INFO] Karya's photos are added to the discover page forYigitto see.
+[Per May 25 18:26:17 TRT 2023] [INFO] Umut's photos are added to the discover page forYigitto see.
+[Per May 25 18:26:17 TRT 2023] [INFO] Yagiz's photos are added to the discover page forYigitto see.
+[Per May 25 18:26:17 TRT 2023] [INFO] Yigit's photos are added to the discover page forYigitto see.
+[Per May 25 18:26:17 TRT 2023] [INFO] Idil's photos are added to the discover page forYigitto see.
+[Per May 25 18:26:17 TRT 2023] [INFO] Dila's photos are added to the discover page forYigitto see.
+[Per May 25 18:26:17 TRT 2023] [INFO] Bullet's photos are added to the discover page forYigitto see.
+[Per May 25 18:26:17 TRT 2023] [INFO] Excalibur's photos are added to the discover page forYigitto see.
+[Per May 25 18:26:18 TRT 2023] [INFO] Yigit is now viewing the discover page.
+[Per May 25 18:26:20 TRT 2023] [INFO] Application shutdown at [Per May 25 18:26:20 TRT 2023]
+[Per May 25 18:26:23 TRT 2023] [INFO] User list deserialized successfully!
+[Per May 25 18:26:23 TRT 2023] [INFO] Media list deserialized successfully!
+[Per May 25 18:26:32 TRT 2023] [INFO] Excalibur's photos were successfully added to their profile page.
+[Per May 25 18:26:32 TRT 2023] [INFO] Excalibur's photos were successfully added to their profile page.
+[Per May 25 18:26:32 TRT 2023] [INFO] Excalibur has successfully logged in.
+[Per May 25 18:27:00 TRT 2023] [INFO] Damla's photos are added to the discover page forExcaliburto see.
+[Per May 25 18:27:00 TRT 2023] [INFO] Eren's photos are added to the discover page forExcaliburto see.
+[Per May 25 18:27:00 TRT 2023] [INFO] Karya's photos are added to the discover page forExcaliburto see.
+[Per May 25 18:27:00 TRT 2023] [INFO] Umut's photos are added to the discover page forExcaliburto see.
+[Per May 25 18:27:00 TRT 2023] [INFO] Yagiz's photos are added to the discover page forExcaliburto see.
+[Per May 25 18:27:00 TRT 2023] [INFO] Yigit's photos are added to the discover page forExcaliburto see.
+[Per May 25 18:27:00 TRT 2023] [INFO] Idil's photos are added to the discover page forExcaliburto see.
+[Per May 25 18:27:00 TRT 2023] [INFO] Dila's photos are added to the discover page forExcaliburto see.
+[Per May 25 18:27:00 TRT 2023] [INFO] Bullet's photos are added to the discover page forExcaliburto see.
+[Per May 25 18:27:00 TRT 2023] [INFO] Excalibur's photos are added to the discover page forExcaliburto see.
+[Per May 25 18:27:03 TRT 2023] [INFO] Excalibur is now viewing the discover page.
+[Per May 25 18:27:14 TRT 2023] [INFO] Application shutdown at [Per May 25 18:27:14 TRT 2023]
+[Per May 25 22:03:29 TRT 2023] [INFO] User list deserialized successfully!
+[Per May 25 22:03:29 TRT 2023] [INFO] Media list deserialized successfully!
+[Per May 25 22:03:45 TRT 2023] [INFO] Yagiz's photos were successfully added to their profile page.
+[Per May 25 22:03:45 TRT 2023] [INFO] Yagiz's photos were successfully added to their profile page.
+[Per May 25 22:03:46 TRT 2023] [INFO] Yagiz has successfully logged in.
+[Per May 25 22:03:51 TRT 2023] [INFO] Damla's photos are added to the discover page forYagizto see.
+[Per May 25 22:03:51 TRT 2023] [INFO] Eren's photos are added to the discover page forYagizto see.
+[Per May 25 22:03:51 TRT 2023] [INFO] Karya's photos are added to the discover page forYagizto see.
+[Per May 25 22:03:51 TRT 2023] [INFO] Umut's photos are added to the discover page forYagizto see.
+[Per May 25 22:03:51 TRT 2023] [INFO] Yagiz's photos are added to the discover page forYagizto see.
+[Per May 25 22:03:51 TRT 2023] [INFO] Yigit's photos are added to the discover page forYagizto see.
+[Per May 25 22:03:51 TRT 2023] [INFO] Idil's photos are added to the discover page forYagizto see.
+[Per May 25 22:03:51 TRT 2023] [INFO] Dila's photos are added to the discover page forYagizto see.
+[Per May 25 22:03:51 TRT 2023] [INFO] Bullet's photos are added to the discover page forYagizto see.
+[Per May 25 22:03:51 TRT 2023] [INFO] Excalibur's photos are added to the discover page forYagizto see.
+[Per May 25 22:03:52 TRT 2023] [INFO] Yagiz is now viewing the discover page.
+[Per May 25 22:04:07 TRT 2023] [INFO] Umut's media list is added to their profile.
+[Per May 25 22:04:07 TRT 2023] [INFO] Yagizvisited Umut's profile.
+[Per May 25 22:04:09 TRT 2023] [INFO] Yagizreturned to their discovery page.
+[Per May 25 22:04:27 TRT 2023] [INFO] Application shutdown at [Per May 25 22:04:27 TRT 2023]
+[Per May 25 22:04:31 TRT 2023] [INFO] User list deserialized successfully!
+[Per May 25 22:04:31 TRT 2023] [INFO] Media list deserialized successfully!
+[Per May 25 22:04:39 TRT 2023] [INFO] Damla's photos were successfully added to their profile page.
+[Per May 25 22:04:39 TRT 2023] [INFO] Damla's photos were successfully added to their profile page.
+[Per May 25 22:04:39 TRT 2023] [INFO] Damla has successfully logged in.
+[Per May 25 22:04:40 TRT 2023] [INFO] Application shutdown at [Per May 25 22:04:40 TRT 2023]
+[Per May 25 22:04:43 TRT 2023] [INFO] User list deserialized successfully!
+[Per May 25 22:04:43 TRT 2023] [INFO] Media list deserialized successfully!
+[Per May 25 22:04:51 TRT 2023] [INFO] Eren's photos were successfully added to their profile page.
+[Per May 25 22:04:51 TRT 2023] [INFO] Eren's photos were successfully added to their profile page.
+[Per May 25 22:04:51 TRT 2023] [INFO] Eren has successfully logged in.
+[Per May 25 22:04:53 TRT 2023] [INFO] Application shutdown at [Per May 25 22:04:53 TRT 2023]
+[Per May 25 22:04:55 TRT 2023] [INFO] User list deserialized successfully!
+[Per May 25 22:04:56 TRT 2023] [INFO] Media list deserialized successfully!
+[Per May 25 22:05:04 TRT 2023] [INFO] Karya's photos were successfully added to their profile page.
+[Per May 25 22:05:04 TRT 2023] [INFO] Karya's photos were successfully added to their profile page.
+[Per May 25 22:05:04 TRT 2023] [INFO] Karya has successfully logged in.
+[Per May 25 22:05:06 TRT 2023] [INFO] Application shutdown at [Per May 25 22:05:06 TRT 2023]
+[Per May 25 22:05:09 TRT 2023] [INFO] User list deserialized successfully!
+[Per May 25 22:05:09 TRT 2023] [INFO] Media list deserialized successfully!
+[Per May 25 22:05:28 TRT 2023] [INFO] Yigit's photos were successfully added to their profile page.
+[Per May 25 22:05:28 TRT 2023] [INFO] Yigit's photos were successfully added to their profile page.
+[Per May 25 22:05:28 TRT 2023] [INFO] Yigit has successfully logged in.
+[Per May 25 22:05:45 TRT 2023] [INFO] Application shutdown at [Per May 25 22:05:45 TRT 2023]
+[Per May 25 22:05:49 TRT 2023] [INFO] User list deserialized successfully!
+[Per May 25 22:05:49 TRT 2023] [INFO] Media list deserialized successfully!
+[Per May 25 22:06:06 TRT 2023] [INFO] Idil's photos were successfully added to their profile page.
+[Per May 25 22:06:06 TRT 2023] [INFO] Idil's photos were successfully added to their profile page.
+[Per May 25 22:06:06 TRT 2023] [INFO] Idil has successfully logged in.
+[Per May 25 22:06:09 TRT 2023] [INFO] Application shutdown at [Per May 25 22:06:09 TRT 2023]
+[Per May 25 22:06:14 TRT 2023] [INFO] User list deserialized successfully!
+[Per May 25 22:06:14 TRT 2023] [INFO] Media list deserialized successfully!
+[Per May 25 22:07:31 TRT 2023] [INFO] Dila's photos were successfully added to their profile page.
+[Per May 25 22:07:31 TRT 2023] [INFO] Dila's photos were successfully added to their profile page.
+[Per May 25 22:07:31 TRT 2023] [INFO] Dila has successfully logged in.
+[Per May 25 22:07:32 TRT 2023] [INFO] Application shutdown at [Per May 25 22:07:32 TRT 2023]
+[Per May 25 22:07:37 TRT 2023] [INFO] User list deserialized successfully!
+[Per May 25 22:07:37 TRT 2023] [INFO] Media list deserialized successfully!
+[Per May 25 22:07:44 TRT 2023] [INFO] Bullet's photos were successfully added to their profile page.
+[Per May 25 22:07:44 TRT 2023] [INFO] Bullet's photos were successfully added to their profile page.
+[Per May 25 22:07:44 TRT 2023] [INFO] Bullet has successfully logged in.
+[Per May 25 22:07:47 TRT 2023] [INFO] Application shutdown at [Per May 25 22:07:47 TRT 2023]
+[Per May 25 22:07:50 TRT 2023] [INFO] User list deserialized successfully!
+[Per May 25 22:07:50 TRT 2023] [INFO] Media list deserialized successfully!
+[Per May 25 22:08:00 TRT 2023] [INFO] Excalibur's photos were successfully added to their profile page.
+[Per May 25 22:08:00 TRT 2023] [INFO] Excalibur's photos were successfully added to their profile page.
+[Per May 25 22:08:01 TRT 2023] [INFO] Excalibur has successfully logged in.
+[Per May 25 22:08:04 TRT 2023] [INFO] Application shutdown at [Per May 25 22:08:04 TRT 2023]
+[Cum May 26 00:00:36 TRT 2023] [INFO] User list deserialized successfully!
+[Cum May 26 00:00:36 TRT 2023] [INFO] Media list deserialized successfully!
+[Cum May 26 00:00:49 TRT 2023] [INFO] Damla's photos were successfully added to their profile page.
+[Cum May 26 00:00:49 TRT 2023] [INFO] Damla's photos were successfully added to their profile page.
+[Cum May 26 00:00:49 TRT 2023] [INFO] Damla has successfully logged in.
+[Cum May 26 00:00:53 TRT 2023] [INFO] Application shutdown at [Cum May 26 00:00:53 TRT 2023]
+[Cum May 26 10:10:12 TRT 2023] [INFO] User list deserialized successfully!
+[Cum May 26 10:10:12 TRT 2023] [INFO] Media list deserialized successfully!
+[Cum May 26 10:10:17 TRT 2023] [INFO] Application shutdown at [Cum May 26 10:10:17 TRT 2023]
+[Cum May 26 10:11:19 TRT 2023] [INFO] User list deserialized successfully!
+[Cum May 26 10:11:20 TRT 2023] [INFO] Media list deserialized successfully!
+[Cum May 26 10:11:28 TRT 2023] [INFO] Damla's photos were successfully added to their profile page.
+[Cum May 26 10:11:28 TRT 2023] [INFO] Damla's photos were successfully added to their profile page.
+[Cum May 26 10:11:28 TRT 2023] [INFO] Damla has successfully logged in.
+[Cum May 26 10:11:46 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_toucan.jpg
+[Cum May 26 10:11:46 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:11:46 TRT 2023] [INFO] Damla's content was successfully updated.
+[Cum May 26 10:11:46 TRT 2023] [INFO] Damla uploaded a private photo.
+[Cum May 26 10:11:49 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_toucan.jpg
+[Cum May 26 10:11:49 TRT 2023] [INFO] Edit frame is openedd.
+[Cum May 26 10:11:53 TRT 2023] [INFO] Image successfully converted to image matrix.
+[Cum May 26 10:11:56 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_toucan.jpg
+[Cum May 26 10:11:58 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:11:59 TRT 2023] [INFO] Damla's content was successfully updated.
+[Cum May 26 10:11:59 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:12:04 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:12:04 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:12:04 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:12:06 TRT 2023] [INFO] Damla's photos are added to the discover page forDamlato see.
+[Cum May 26 10:12:06 TRT 2023] [INFO] Eren's photos are added to the discover page forDamlato see.
+[Cum May 26 10:12:06 TRT 2023] [INFO] Karya's photos are added to the discover page forDamlato see.
+[Cum May 26 10:12:06 TRT 2023] [INFO] Umut's photos are added to the discover page forDamlato see.
+[Cum May 26 10:12:06 TRT 2023] [INFO] Yagiz's photos are added to the discover page forDamlato see.
+[Cum May 26 10:12:06 TRT 2023] [INFO] Yigit's photos are added to the discover page forDamlato see.
+[Cum May 26 10:12:06 TRT 2023] [INFO] Idil's photos are added to the discover page forDamlato see.
+[Cum May 26 10:12:06 TRT 2023] [INFO] Dila's photos are added to the discover page forDamlato see.
+[Cum May 26 10:12:06 TRT 2023] [INFO] Bullet's photos are added to the discover page forDamlato see.
+[Cum May 26 10:12:06 TRT 2023] [INFO] Excalibur's photos are added to the discover page forDamlato see.
+[Cum May 26 10:12:07 TRT 2023] [INFO] Damla is now viewing the discover page.
+[Cum May 26 10:12:21 TRT 2023] [INFO] Damla visited their own profile page.
+[Cum May 26 10:12:29 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:12:29 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:12:29 TRT 2023] [INFO] Damla's content was successfully updated.
+[Cum May 26 10:12:29 TRT 2023] [INFO] Damla successfully removed a photo from their profile and the discovery page.
+[Cum May 26 10:12:30 TRT 2023] [INFO] Damla's photos are added to the discover page forDamlato see.
+[Cum May 26 10:12:30 TRT 2023] [INFO] Eren's photos are added to the discover page forDamlato see.
+[Cum May 26 10:12:30 TRT 2023] [INFO] Karya's photos are added to the discover page forDamlato see.
+[Cum May 26 10:12:30 TRT 2023] [INFO] Umut's photos are added to the discover page forDamlato see.
+[Cum May 26 10:12:30 TRT 2023] [INFO] Yagiz's photos are added to the discover page forDamlato see.
+[Cum May 26 10:12:30 TRT 2023] [INFO] Yigit's photos are added to the discover page forDamlato see.
+[Cum May 26 10:12:30 TRT 2023] [INFO] Idil's photos are added to the discover page forDamlato see.
+[Cum May 26 10:12:30 TRT 2023] [INFO] Dila's photos are added to the discover page forDamlato see.
+[Cum May 26 10:12:30 TRT 2023] [INFO] Bullet's photos are added to the discover page forDamlato see.
+[Cum May 26 10:12:30 TRT 2023] [INFO] Excalibur's photos are added to the discover page forDamlato see.
+[Cum May 26 10:12:32 TRT 2023] [INFO] Damla is now viewing the discover page.
+[Cum May 26 10:12:43 TRT 2023] [INFO] Application shutdown at [Cum May 26 10:12:43 TRT 2023]
+[Cum May 26 10:12:46 TRT 2023] [INFO] User list deserialized successfully!
+[Cum May 26 10:12:46 TRT 2023] [INFO] Media list deserialized successfully!
+[Cum May 26 10:12:55 TRT 2023] [INFO] Excalibur's photos were successfully added to their profile page.
+[Cum May 26 10:12:55 TRT 2023] [INFO] Excalibur's photos were successfully added to their profile page.
+[Cum May 26 10:12:55 TRT 2023] [INFO] Excalibur has successfully logged in.
+[Cum May 26 10:12:57 TRT 2023] [INFO] Damla's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:12:57 TRT 2023] [INFO] Eren's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:12:57 TRT 2023] [INFO] Karya's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:12:57 TRT 2023] [INFO] Umut's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:12:57 TRT 2023] [INFO] Yagiz's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:12:57 TRT 2023] [INFO] Yigit's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:12:57 TRT 2023] [INFO] Idil's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:12:57 TRT 2023] [INFO] Dila's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:12:57 TRT 2023] [INFO] Bullet's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:12:57 TRT 2023] [INFO] Excalibur's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:12:59 TRT 2023] [INFO] Excalibur is now viewing the discover page.
+[Cum May 26 10:13:13 TRT 2023] [INFO] Excalibur visited their own profile page.
+[Cum May 26 10:13:15 TRT 2023] [INFO] Damla's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:13:15 TRT 2023] [INFO] Eren's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:13:15 TRT 2023] [INFO] Karya's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:13:15 TRT 2023] [INFO] Umut's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:13:15 TRT 2023] [INFO] Yagiz's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:13:15 TRT 2023] [INFO] Yigit's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:13:15 TRT 2023] [INFO] Idil's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:13:15 TRT 2023] [INFO] Dila's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:13:15 TRT 2023] [INFO] Bullet's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:13:15 TRT 2023] [INFO] Excalibur's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:13:17 TRT 2023] [INFO] Excalibur is now viewing the discover page.
+[Cum May 26 10:13:19 TRT 2023] [INFO] Excalibur visited Excalibur's profile.
+[Cum May 26 10:13:19 TRT 2023] [INFO] Damla's media list is added to their profile.
+[Cum May 26 10:13:19 TRT 2023] [INFO] Damla's media list is added to their profile.
+[Cum May 26 10:13:20 TRT 2023] [INFO] Damla's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:13:20 TRT 2023] [INFO] Eren's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:13:20 TRT 2023] [INFO] Karya's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:13:20 TRT 2023] [INFO] Umut's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:13:20 TRT 2023] [INFO] Yagiz's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:13:20 TRT 2023] [INFO] Yigit's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:13:20 TRT 2023] [INFO] Idil's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:13:20 TRT 2023] [INFO] Dila's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:13:20 TRT 2023] [INFO] Bullet's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:13:20 TRT 2023] [INFO] Excalibur's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:13:21 TRT 2023] [INFO] Excaliburreturned to their discovery page.
+[Cum May 26 10:13:23 TRT 2023] [INFO] Application shutdown at [Cum May 26 10:13:23 TRT 2023]
+[Cum May 26 10:13:28 TRT 2023] [INFO] User list deserialized successfully!
+[Cum May 26 10:13:28 TRT 2023] [INFO] Media list deserialized successfully!
+[Cum May 26 10:13:36 TRT 2023] [INFO] Damla's photos were successfully added to their profile page.
+[Cum May 26 10:13:36 TRT 2023] [INFO] Damla's photos were successfully added to their profile page.
+[Cum May 26 10:13:36 TRT 2023] [INFO] Damla has successfully logged in.
+[Cum May 26 10:13:37 TRT 2023] [INFO] Damla's photos are added to the discover page forDamlato see.
+[Cum May 26 10:13:37 TRT 2023] [INFO] Eren's photos are added to the discover page forDamlato see.
+[Cum May 26 10:13:37 TRT 2023] [INFO] Karya's photos are added to the discover page forDamlato see.
+[Cum May 26 10:13:37 TRT 2023] [INFO] Umut's photos are added to the discover page forDamlato see.
+[Cum May 26 10:13:37 TRT 2023] [INFO] Yagiz's photos are added to the discover page forDamlato see.
+[Cum May 26 10:13:37 TRT 2023] [INFO] Yigit's photos are added to the discover page forDamlato see.
+[Cum May 26 10:13:37 TRT 2023] [INFO] Idil's photos are added to the discover page forDamlato see.
+[Cum May 26 10:13:37 TRT 2023] [INFO] Dila's photos are added to the discover page forDamlato see.
+[Cum May 26 10:13:37 TRT 2023] [INFO] Bullet's photos are added to the discover page forDamlato see.
+[Cum May 26 10:13:37 TRT 2023] [INFO] Excalibur's photos are added to the discover page forDamlato see.
+[Cum May 26 10:13:39 TRT 2023] [INFO] Damla is now viewing the discover page.
+[Cum May 26 10:13:43 TRT 2023] [INFO] Application shutdown at [Cum May 26 10:13:43 TRT 2023]
+[Cum May 26 10:18:07 TRT 2023] [INFO] User list deserialized successfully!
+[Cum May 26 10:18:07 TRT 2023] [INFO] Media list deserialized successfully!
+[Cum May 26 10:18:15 TRT 2023] [INFO] Idil's photos were successfully added to their profile page.
+[Cum May 26 10:18:15 TRT 2023] [INFO] Idil's photos were successfully added to their profile page.
+[Cum May 26 10:18:15 TRT 2023] [INFO] Idil has successfully logged in.
+[Cum May 26 10:18:31 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_baymax.jpeg
+[Cum May 26 10:18:31 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:18:31 TRT 2023] [INFO] Idil's content was successfully updated.
+[Cum May 26 10:18:31 TRT 2023] [INFO] Idil uploaded a private photo.
+[Cum May 26 10:18:33 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_baymax.jpeg
+[Cum May 26 10:18:33 TRT 2023] [INFO] Edit frame is openedd.
+[Cum May 26 10:18:36 TRT 2023] [INFO] Image successfully converted to image matrix.
+[Cum May 26 10:18:36 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_baymax.jpeg
+[Cum May 26 10:18:40 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:18:41 TRT 2023] [INFO] Idil's content was successfully updated.
+[Cum May 26 10:18:41 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:18:43 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:18:43 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:18:43 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:18:45 TRT 2023] [INFO] Damla's photos are added to the discover page forIdilto see.
+[Cum May 26 10:18:45 TRT 2023] [INFO] Eren's photos are added to the discover page forIdilto see.
+[Cum May 26 10:18:45 TRT 2023] [INFO] Karya's photos are added to the discover page forIdilto see.
+[Cum May 26 10:18:45 TRT 2023] [INFO] Umut's photos are added to the discover page forIdilto see.
+[Cum May 26 10:18:45 TRT 2023] [INFO] Yagiz's photos are added to the discover page forIdilto see.
+[Cum May 26 10:18:45 TRT 2023] [INFO] Yigit's photos are added to the discover page forIdilto see.
+[Cum May 26 10:18:45 TRT 2023] [INFO] Idil's photos are added to the discover page forIdilto see.
+[Cum May 26 10:18:45 TRT 2023] [INFO] Dila's photos are added to the discover page forIdilto see.
+[Cum May 26 10:18:45 TRT 2023] [INFO] Bullet's photos are added to the discover page forIdilto see.
+[Cum May 26 10:18:45 TRT 2023] [INFO] Excalibur's photos are added to the discover page forIdilto see.
+[Cum May 26 10:18:46 TRT 2023] [INFO] Idil is now viewing the discover page.
+[Cum May 26 10:18:59 TRT 2023] [INFO] Idil visited their own profile page.
+[Cum May 26 10:19:02 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:19:02 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:19:03 TRT 2023] [INFO] Idil's content was successfully updated.
+[Cum May 26 10:19:03 TRT 2023] [INFO] Idil successfully removed a photo from their profile and the discovery page.
+[Cum May 26 10:19:04 TRT 2023] [INFO] Damla's photos are added to the discover page forIdilto see.
+[Cum May 26 10:19:04 TRT 2023] [INFO] Eren's photos are added to the discover page forIdilto see.
+[Cum May 26 10:19:04 TRT 2023] [INFO] Karya's photos are added to the discover page forIdilto see.
+[Cum May 26 10:19:04 TRT 2023] [INFO] Umut's photos are added to the discover page forIdilto see.
+[Cum May 26 10:19:04 TRT 2023] [INFO] Yagiz's photos are added to the discover page forIdilto see.
+[Cum May 26 10:19:04 TRT 2023] [INFO] Yigit's photos are added to the discover page forIdilto see.
+[Cum May 26 10:19:04 TRT 2023] [INFO] Idil's photos are added to the discover page forIdilto see.
+[Cum May 26 10:19:04 TRT 2023] [INFO] Dila's photos are added to the discover page forIdilto see.
+[Cum May 26 10:19:04 TRT 2023] [INFO] Bullet's photos are added to the discover page forIdilto see.
+[Cum May 26 10:19:04 TRT 2023] [INFO] Excalibur's photos are added to the discover page forIdilto see.
+[Cum May 26 10:19:04 TRT 2023] [INFO] Idil is now viewing the discover page.
+[Cum May 26 10:19:14 TRT 2023] [INFO] Idil visited their own profile page.
+[Cum May 26 10:19:15 TRT 2023] [INFO] Damla's photos are added to the discover page forIdilto see.
+[Cum May 26 10:19:15 TRT 2023] [INFO] Eren's photos are added to the discover page forIdilto see.
+[Cum May 26 10:19:15 TRT 2023] [INFO] Karya's photos are added to the discover page forIdilto see.
+[Cum May 26 10:19:15 TRT 2023] [INFO] Umut's photos are added to the discover page forIdilto see.
+[Cum May 26 10:19:15 TRT 2023] [INFO] Yagiz's photos are added to the discover page forIdilto see.
+[Cum May 26 10:19:15 TRT 2023] [INFO] Yigit's photos are added to the discover page forIdilto see.
+[Cum May 26 10:19:15 TRT 2023] [INFO] Idil's photos are added to the discover page forIdilto see.
+[Cum May 26 10:19:15 TRT 2023] [INFO] Dila's photos are added to the discover page forIdilto see.
+[Cum May 26 10:19:15 TRT 2023] [INFO] Bullet's photos are added to the discover page forIdilto see.
+[Cum May 26 10:19:15 TRT 2023] [INFO] Excalibur's photos are added to the discover page forIdilto see.
+[Cum May 26 10:19:16 TRT 2023] [INFO] Idil is now viewing the discover page.
+[Cum May 26 10:19:23 TRT 2023] [INFO] Idil visited their own profile page.
+[Cum May 26 10:19:25 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:19:25 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:19:25 TRT 2023] [INFO] Idil's content was successfully updated.
+[Cum May 26 10:19:25 TRT 2023] [INFO] Idil successfully removed a photo from their profile and the discovery page.
+[Cum May 26 10:19:38 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_sail.jpeg
+[Cum May 26 10:19:38 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:19:38 TRT 2023] [INFO] Idil's content was successfully updated.
+[Cum May 26 10:19:38 TRT 2023] [INFO] Idil uploaded a private photo.
+[Cum May 26 10:19:40 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_sail.jpeg
+[Cum May 26 10:19:40 TRT 2023] [INFO] Edit frame is openedd.
+[Cum May 26 10:19:44 TRT 2023] [INFO] Image successfully converted to image matrix.
+[Cum May 26 10:19:44 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_sail.jpeg
+[Cum May 26 10:19:46 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:19:46 TRT 2023] [INFO] Idil's content was successfully updated.
+[Cum May 26 10:19:46 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:19:55 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:19:55 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:19:55 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:19:56 TRT 2023] [INFO] Damla's photos are added to the discover page forIdilto see.
+[Cum May 26 10:19:56 TRT 2023] [INFO] Eren's photos are added to the discover page forIdilto see.
+[Cum May 26 10:19:56 TRT 2023] [INFO] Karya's photos are added to the discover page forIdilto see.
+[Cum May 26 10:19:56 TRT 2023] [INFO] Umut's photos are added to the discover page forIdilto see.
+[Cum May 26 10:19:56 TRT 2023] [INFO] Yagiz's photos are added to the discover page forIdilto see.
+[Cum May 26 10:19:56 TRT 2023] [INFO] Yigit's photos are added to the discover page forIdilto see.
+[Cum May 26 10:19:56 TRT 2023] [INFO] Idil's photos are added to the discover page forIdilto see.
+[Cum May 26 10:19:56 TRT 2023] [INFO] Dila's photos are added to the discover page forIdilto see.
+[Cum May 26 10:19:56 TRT 2023] [INFO] Bullet's photos are added to the discover page forIdilto see.
+[Cum May 26 10:19:56 TRT 2023] [INFO] Excalibur's photos are added to the discover page forIdilto see.
+[Cum May 26 10:19:57 TRT 2023] [INFO] Idil is now viewing the discover page.
+[Cum May 26 10:20:05 TRT 2023] [INFO] Idil visited their own profile page.
+[Cum May 26 10:20:08 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:20:08 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:20:08 TRT 2023] [INFO] Idil's content was successfully updated.
+[Cum May 26 10:20:08 TRT 2023] [INFO] Idil successfully removed a photo from their profile and the discovery page.
+[Cum May 26 10:20:10 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:20:10 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:20:10 TRT 2023] [INFO] Idil's content was successfully updated.
+[Cum May 26 10:20:10 TRT 2023] [INFO] Idil successfully removed a photo from their profile and the discovery page.
+[Cum May 26 10:20:11 TRT 2023] [INFO] Application shutdown at [Cum May 26 10:20:11 TRT 2023]
+[Cum May 26 10:20:16 TRT 2023] [INFO] User list deserialized successfully!
+[Cum May 26 10:20:16 TRT 2023] [INFO] Media list deserialized successfully!
+[Cum May 26 10:20:30 TRT 2023] [INFO] Excalibur's photos were successfully added to their profile page.
+[Cum May 26 10:20:30 TRT 2023] [INFO] Excalibur's photos were successfully added to their profile page.
+[Cum May 26 10:20:30 TRT 2023] [INFO] Excalibur has successfully logged in.
+[Cum May 26 10:20:35 TRT 2023] [INFO] Damla's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:20:35 TRT 2023] [INFO] Eren's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:20:35 TRT 2023] [INFO] Karya's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:20:35 TRT 2023] [INFO] Umut's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:20:35 TRT 2023] [INFO] Yagiz's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:20:35 TRT 2023] [INFO] Yigit's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:20:35 TRT 2023] [INFO] Idil's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:20:35 TRT 2023] [INFO] Dila's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:20:35 TRT 2023] [INFO] Bullet's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:20:35 TRT 2023] [INFO] Excalibur's photos are added to the discover page forExcaliburto see.
+[Cum May 26 10:20:37 TRT 2023] [INFO] Excalibur is now viewing the discover page.
+[Cum May 26 10:20:53 TRT 2023] [INFO] Excalibur visited their own profile page.
+[Cum May 26 10:20:56 TRT 2023] [INFO] Application shutdown at [Cum May 26 10:20:56 TRT 2023]
+[Cum May 26 10:24:39 TRT 2023] [INFO] User list deserialized successfully!
+[Cum May 26 10:24:39 TRT 2023] [INFO] Media list deserialized successfully!
+[Cum May 26 10:25:38 TRT 2023] [INFO] Application shutdown at [Cum May 26 10:25:38 TRT 2023]
+[Cum May 26 10:35:42 TRT 2023] [INFO] User list deserialized successfully!
+[Cum May 26 10:35:42 TRT 2023] [INFO] Media list deserialized successfully!
+[Cum May 26 10:35:51 TRT 2023] [INFO] Idil's photos were successfully added to their profile page.
+[Cum May 26 10:35:51 TRT 2023] [INFO] Idil's photos were successfully added to their profile page.
+[Cum May 26 10:35:51 TRT 2023] [INFO] Idil has successfully logged in.
+[Cum May 26 10:36:12 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_cat.jpeg
+[Cum May 26 10:36:12 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:36:12 TRT 2023] [INFO] Idil's content was successfully updated.
+[Cum May 26 10:36:12 TRT 2023] [INFO] Idil uploaded a private photo.
+[Cum May 26 10:36:14 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_cat.jpeg
+[Cum May 26 10:36:14 TRT 2023] [INFO] Edit frame is openedd.
+[Cum May 26 10:36:16 TRT 2023] [INFO] Image successfully converted to image matrix.
+[Cum May 26 10:36:17 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_cat.jpeg
+[Cum May 26 10:36:22 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:36:22 TRT 2023] [INFO] Idil's content was successfully updated.
+[Cum May 26 10:36:22 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:36:31 TRT 2023] [INFO] Damla's photos are added to the discover page forIdilto see.
+[Cum May 26 10:36:31 TRT 2023] [INFO] Eren's photos are added to the discover page forIdilto see.
+[Cum May 26 10:36:31 TRT 2023] [INFO] Karya's photos are added to the discover page forIdilto see.
+[Cum May 26 10:36:31 TRT 2023] [INFO] Umut's photos are added to the discover page forIdilto see.
+[Cum May 26 10:36:31 TRT 2023] [INFO] Yagiz's photos are added to the discover page forIdilto see.
+[Cum May 26 10:36:31 TRT 2023] [INFO] Yigit's photos are added to the discover page forIdilto see.
+[Cum May 26 10:36:31 TRT 2023] [INFO] Idil's photos are added to the discover page forIdilto see.
+[Cum May 26 10:36:31 TRT 2023] [INFO] Dila's photos are added to the discover page forIdilto see.
+[Cum May 26 10:36:31 TRT 2023] [INFO] Bullet's photos are added to the discover page forIdilto see.
+[Cum May 26 10:36:31 TRT 2023] [INFO] Excalibur's photos are added to the discover page forIdilto see.
+[Cum May 26 10:36:32 TRT 2023] [INFO] Idil is now viewing the discover page.
+[Cum May 26 10:36:38 TRT 2023] [INFO] Idil visited their own profile page.
+[Cum May 26 10:36:40 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:36:40 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:36:40 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:36:40 TRT 2023] [INFO] Damla's photos are added to the discover page forIdilto see.
+[Cum May 26 10:36:40 TRT 2023] [INFO] Eren's photos are added to the discover page forIdilto see.
+[Cum May 26 10:36:40 TRT 2023] [INFO] Karya's photos are added to the discover page forIdilto see.
+[Cum May 26 10:36:40 TRT 2023] [INFO] Umut's photos are added to the discover page forIdilto see.
+[Cum May 26 10:36:40 TRT 2023] [INFO] Yagiz's photos are added to the discover page forIdilto see.
+[Cum May 26 10:36:40 TRT 2023] [INFO] Yigit's photos are added to the discover page forIdilto see.
+[Cum May 26 10:36:40 TRT 2023] [INFO] Idil's photos are added to the discover page forIdilto see.
+[Cum May 26 10:36:40 TRT 2023] [INFO] Dila's photos are added to the discover page forIdilto see.
+[Cum May 26 10:36:40 TRT 2023] [INFO] Bullet's photos are added to the discover page forIdilto see.
+[Cum May 26 10:36:40 TRT 2023] [INFO] Excalibur's photos are added to the discover page forIdilto see.
+[Cum May 26 10:36:41 TRT 2023] [INFO] Idil is now viewing the discover page.
+[Cum May 26 10:36:50 TRT 2023] [INFO] Idil's media list is added to their profile.
+[Cum May 26 10:36:50 TRT 2023] [INFO] Idil's media list is added to their profile.
+[Cum May 26 10:36:50 TRT 2023] [INFO] Idil visited Idil's profile.
+[Cum May 26 10:36:52 TRT 2023] [INFO] Idilreturned to their discovery page.
+[Cum May 26 10:37:01 TRT 2023] [INFO] Idil visited their own profile page.
+[Cum May 26 10:37:02 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:37:02 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:37:02 TRT 2023] [INFO] Idil's content was successfully updated.
+[Cum May 26 10:37:02 TRT 2023] [INFO] Idil successfully removed a photo from their profile and the discovery page.
+[Cum May 26 10:37:04 TRT 2023] [INFO] Damla's photos are added to the discover page forIdilto see.
+[Cum May 26 10:37:04 TRT 2023] [INFO] Eren's photos are added to the discover page forIdilto see.
+[Cum May 26 10:37:04 TRT 2023] [INFO] Karya's photos are added to the discover page forIdilto see.
+[Cum May 26 10:37:04 TRT 2023] [INFO] Umut's photos are added to the discover page forIdilto see.
+[Cum May 26 10:37:04 TRT 2023] [INFO] Yagiz's photos are added to the discover page forIdilto see.
+[Cum May 26 10:37:04 TRT 2023] [INFO] Yigit's photos are added to the discover page forIdilto see.
+[Cum May 26 10:37:04 TRT 2023] [INFO] Idil's photos are added to the discover page forIdilto see.
+[Cum May 26 10:37:04 TRT 2023] [INFO] Dila's photos are added to the discover page forIdilto see.
+[Cum May 26 10:37:04 TRT 2023] [INFO] Bullet's photos are added to the discover page forIdilto see.
+[Cum May 26 10:37:04 TRT 2023] [INFO] Excalibur's photos are added to the discover page forIdilto see.
+[Cum May 26 10:37:06 TRT 2023] [INFO] Idil is now viewing the discover page.
+[Cum May 26 10:37:12 TRT 2023] [INFO] Application shutdown at [Cum May 26 10:37:12 TRT 2023]
+[Cum May 26 10:37:47 TRT 2023] [INFO] User list deserialized successfully!
+[Cum May 26 10:37:47 TRT 2023] [INFO] Media list deserialized successfully!
+[Cum May 26 10:38:19 TRT 2023] [INFO] Application shutdown at [Cum May 26 10:38:19 TRT 2023]
+[Cum May 26 10:38:31 TRT 2023] [INFO] User list deserialized successfully!
+[Cum May 26 10:38:31 TRT 2023] [INFO] Media list deserialized successfully!
+[Cum May 26 10:38:44 TRT 2023] [INFO] Damla's photos were successfully added to their profile page.
+[Cum May 26 10:38:44 TRT 2023] [INFO] Damla's photos were successfully added to their profile page.
+[Cum May 26 10:38:44 TRT 2023] [INFO] Damla has successfully logged in.
+[Cum May 26 10:38:56 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_dog.jpg
+[Cum May 26 10:38:56 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:38:57 TRT 2023] [INFO] Damla's content was successfully updated.
+[Cum May 26 10:38:57 TRT 2023] [INFO] Damla uploaded a private photo.
+[Cum May 26 10:38:59 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_dog.jpg
+[Cum May 26 10:38:59 TRT 2023] [INFO] Edit frame is openedd.
+[Cum May 26 10:39:04 TRT 2023] [INFO] Image successfully converted to image matrix.
+[Cum May 26 10:39:09 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_dog.jpg
+[Cum May 26 10:39:12 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:39:13 TRT 2023] [INFO] Damla's content was successfully updated.
+[Cum May 26 10:39:13 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:39:21 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:39:21 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:39:26 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:39:26 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:39:26 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:39:28 TRT 2023] [INFO] Damla's photos are added to the discover page forDamlato see.
+[Cum May 26 10:39:28 TRT 2023] [INFO] Eren's photos are added to the discover page forDamlato see.
+[Cum May 26 10:39:28 TRT 2023] [INFO] Karya's photos are added to the discover page forDamlato see.
+[Cum May 26 10:39:28 TRT 2023] [INFO] Umut's photos are added to the discover page forDamlato see.
+[Cum May 26 10:39:28 TRT 2023] [INFO] Yagiz's photos are added to the discover page forDamlato see.
+[Cum May 26 10:39:28 TRT 2023] [INFO] Yigit's photos are added to the discover page forDamlato see.
+[Cum May 26 10:39:28 TRT 2023] [INFO] Idil's photos are added to the discover page forDamlato see.
+[Cum May 26 10:39:28 TRT 2023] [INFO] Dila's photos are added to the discover page forDamlato see.
+[Cum May 26 10:39:28 TRT 2023] [INFO] Bullet's photos are added to the discover page forDamlato see.
+[Cum May 26 10:39:28 TRT 2023] [INFO] Excalibur's photos are added to the discover page forDamlato see.
+[Cum May 26 10:39:30 TRT 2023] [INFO] Damla is now viewing the discover page.
+[Cum May 26 10:39:33 TRT 2023] [INFO] Damla's media list is added to their profile.
+[Cum May 26 10:39:33 TRT 2023] [INFO] Damla's media list is added to their profile.
+[Cum May 26 10:39:33 TRT 2023] [INFO] Damla visited Damla's profile.
+[Cum May 26 10:39:36 TRT 2023] [INFO] Damlareturned to their discovery page.
+[Cum May 26 10:39:41 TRT 2023] [INFO] Eren's media list is added to their profile.
+[Cum May 26 10:39:41 TRT 2023] [INFO] Damla visited Damla's profile.
+[Cum May 26 10:39:43 TRT 2023] [INFO] Damlareturned to their discovery page.
+[Cum May 26 10:39:50 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:39:50 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:39:50 TRT 2023] [INFO] Damla liked Idil's photo.
+[Cum May 26 10:39:59 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:39:59 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:40:04 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:40:04 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:40:04 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:40:04 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:40:04 TRT 2023] [INFO] Damlacommented on Idil's photo.
+[Cum May 26 10:40:12 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:40:12 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:40:12 TRT 2023] [INFO] Damla liked Damla's photo.
+[Cum May 26 10:40:12 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:40:12 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:40:12 TRT 2023] [INFO] Damla liked Damla's photo.
+[Cum May 26 10:40:17 TRT 2023] [INFO] Idil's media list is added to their profile.
+[Cum May 26 10:40:17 TRT 2023] [INFO] Damlavisited Idil's profile.
+[Cum May 26 10:40:18 TRT 2023] [INFO] Damlaviewed Idil's photo on a seperate frame.
+[Cum May 26 10:40:24 TRT 2023] [INFO] Damlareturned to their discovery page.
+[Cum May 26 10:40:28 TRT 2023] [INFO] Damla visited their own profile page.
+[Cum May 26 10:40:31 TRT 2023] [INFO] Application shutdown at [Cum May 26 10:40:31 TRT 2023]
+[Cum May 26 10:40:35 TRT 2023] [INFO] User list deserialized successfully!
+[Cum May 26 10:40:35 TRT 2023] [INFO] Media list deserialized successfully!
+[Cum May 26 10:40:44 TRT 2023] [INFO] Idil's photos were successfully added to their profile page.
+[Cum May 26 10:40:44 TRT 2023] [INFO] Idil's photos were successfully added to their profile page.
+[Cum May 26 10:40:44 TRT 2023] [INFO] Idil has successfully logged in.
+[Cum May 26 10:40:46 TRT 2023] [INFO] Damla's photos are added to the discover page forIdilto see.
+[Cum May 26 10:40:46 TRT 2023] [INFO] Eren's photos are added to the discover page forIdilto see.
+[Cum May 26 10:40:46 TRT 2023] [INFO] Karya's photos are added to the discover page forIdilto see.
+[Cum May 26 10:40:46 TRT 2023] [INFO] Umut's photos are added to the discover page forIdilto see.
+[Cum May 26 10:40:46 TRT 2023] [INFO] Yagiz's photos are added to the discover page forIdilto see.
+[Cum May 26 10:40:46 TRT 2023] [INFO] Yigit's photos are added to the discover page forIdilto see.
+[Cum May 26 10:40:46 TRT 2023] [INFO] Idil's photos are added to the discover page forIdilto see.
+[Cum May 26 10:40:46 TRT 2023] [INFO] Dila's photos are added to the discover page forIdilto see.
+[Cum May 26 10:40:46 TRT 2023] [INFO] Bullet's photos are added to the discover page forIdilto see.
+[Cum May 26 10:40:46 TRT 2023] [INFO] Excalibur's photos are added to the discover page forIdilto see.
+[Cum May 26 10:40:48 TRT 2023] [INFO] Idil is now viewing the discover page.
+[Cum May 26 10:40:54 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:40:54 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:40:58 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:40:58 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:40:58 TRT 2023] [INFO] Idil liked Idil's photo.
+[Cum May 26 10:41:04 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:41:04 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:41:04 TRT 2023] [INFO] Idil disliked Yigit's photo.
+[Cum May 26 10:41:09 TRT 2023] [INFO] Idil visited their own profile page.
+[Cum May 26 10:41:40 TRT 2023] [INFO] Idil chose a new profile photo.
+[Cum May 26 10:41:43 TRT 2023] [INFO] Idil information updated succesfully.
+[Cum May 26 10:41:43 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:41:54 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_Editedcopy_of_ferrari.jpeg
+[Cum May 26 10:41:54 TRT 2023] [INFO] Edit frame is openedd.
+[Cum May 26 10:42:04 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_ferrari.jpeg
+[Cum May 26 10:42:04 TRT 2023] [INFO] Edit frame is openedd.
+[Cum May 26 10:42:07 TRT 2023] [INFO] Image successfully converted to image matrix.
+[Cum May 26 10:42:08 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_ferrari.jpeg
+[Cum May 26 10:42:13 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:42:14 TRT 2023] [INFO] Idil's content was successfully updated.
+[Cum May 26 10:42:14 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:42:39 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:42:39 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:42:39 TRT 2023] [INFO] Idil's content was successfully updated.
+[Cum May 26 10:42:39 TRT 2023] [INFO] Idil successfully removed a photo from their profile and the discovery page.
+[Cum May 26 10:42:47 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:42:47 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:42:47 TRT 2023] [INFO] Idil's content was successfully updated.
+[Cum May 26 10:42:47 TRT 2023] [INFO] Idil successfully removed a photo from their profile and the discovery page.
+[Cum May 26 10:42:49 TRT 2023] [INFO] Damla's photos are added to the discover page forIdilto see.
+[Cum May 26 10:42:49 TRT 2023] [INFO] Eren's photos are added to the discover page forIdilto see.
+[Cum May 26 10:42:49 TRT 2023] [INFO] Karya's photos are added to the discover page forIdilto see.
+[Cum May 26 10:42:49 TRT 2023] [INFO] Umut's photos are added to the discover page forIdilto see.
+[Cum May 26 10:42:49 TRT 2023] [INFO] Yagiz's photos are added to the discover page forIdilto see.
+[Cum May 26 10:42:49 TRT 2023] [INFO] Yigit's photos are added to the discover page forIdilto see.
+[Cum May 26 10:42:49 TRT 2023] [INFO] Idil's photos are added to the discover page forIdilto see.
+[Cum May 26 10:42:49 TRT 2023] [INFO] Dila's photos are added to the discover page forIdilto see.
+[Cum May 26 10:42:49 TRT 2023] [INFO] Bullet's photos are added to the discover page forIdilto see.
+[Cum May 26 10:42:49 TRT 2023] [INFO] Excalibur's photos are added to the discover page forIdilto see.
+[Cum May 26 10:42:49 TRT 2023] [INFO] Idil is now viewing the discover page.
+[Cum May 26 10:43:02 TRT 2023] [INFO] Idil visited Idil's profile.
+[Cum May 26 10:43:06 TRT 2023] [INFO] Idilreturned to their discovery page.
+[Cum May 26 10:43:06 TRT 2023] [INFO] Idil visited their own profile page.
+[Cum May 26 10:43:21 TRT 2023] [INFO] Application shutdown at [Cum May 26 10:43:21 TRT 2023]
+[Cum May 26 10:43:30 TRT 2023] [INFO] User list deserialized successfully!
+[Cum May 26 10:43:30 TRT 2023] [INFO] Media list deserialized successfully!
+[Cum May 26 10:44:57 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:44:58 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:44:58 TRT 2023] [INFO] User signed up successfully.
+[Cum May 26 10:44:58 TRT 2023] [INFO] User is viewing their profile page.
+[Cum May 26 10:45:11 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_sail.jpeg
+[Cum May 26 10:45:11 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:45:11 TRT 2023] [INFO] Ahmet's content was successfully updated.
+[Cum May 26 10:45:11 TRT 2023] [INFO] Ahmet uploaded a private photo.
+[Cum May 26 10:45:13 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_sail.jpeg
+[Cum May 26 10:45:13 TRT 2023] [INFO] Edit frame is openedd.
+[Cum May 26 10:45:26 TRT 2023] [INFO] Image successfully converted to image matrix.
+[Cum May 26 10:45:26 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_sail.jpeg
+[Cum May 26 10:45:31 TRT 2023] [INFO] Image successfully converted to image matrix.
+[Cum May 26 10:45:31 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_Editedcopy_of_sail.jpeg
+[Cum May 26 10:45:33 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:45:33 TRT 2023] [INFO] Ahmet's content was successfully updated.
+[Cum May 26 10:45:33 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:45:40 TRT 2023] [INFO] Damla's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:45:40 TRT 2023] [INFO] Eren's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:45:40 TRT 2023] [INFO] Karya's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:45:40 TRT 2023] [INFO] Umut's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:45:40 TRT 2023] [INFO] Yagiz's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:45:40 TRT 2023] [INFO] Yigit's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:45:40 TRT 2023] [INFO] Idil's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:45:40 TRT 2023] [INFO] Dila's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:45:40 TRT 2023] [INFO] Bullet's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:45:40 TRT 2023] [INFO] Excalibur's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:45:40 TRT 2023] [INFO] Ahmet's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:45:42 TRT 2023] [INFO] Ahmet is now viewing the discover page.
+[Cum May 26 10:46:06 TRT 2023] [INFO] Ahmet visited their own profile page.
+[Cum May 26 10:46:08 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:46:08 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:46:08 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:46:09 TRT 2023] [INFO] Damla's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:46:09 TRT 2023] [INFO] Eren's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:46:09 TRT 2023] [INFO] Karya's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:46:09 TRT 2023] [INFO] Umut's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:46:09 TRT 2023] [INFO] Yagiz's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:46:09 TRT 2023] [INFO] Yigit's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:46:09 TRT 2023] [INFO] Idil's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:46:09 TRT 2023] [INFO] Dila's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:46:09 TRT 2023] [INFO] Bullet's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:46:09 TRT 2023] [INFO] Excalibur's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:46:09 TRT 2023] [INFO] Ahmet's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:46:12 TRT 2023] [INFO] Ahmet is now viewing the discover page.
+[Cum May 26 10:46:32 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:46:32 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:46:32 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:46:32 TRT 2023] [INFO] Ahmet removed Yagiz's photo from the discover page and their profile.
+[Cum May 26 10:46:48 TRT 2023] [INFO] Ahmet visited Ahmet's profile.
+[Cum May 26 10:46:48 TRT 2023] [INFO] Yagiz's media list is added to their profile.
+[Cum May 26 10:46:51 TRT 2023] [INFO] Damla's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:46:51 TRT 2023] [INFO] Eren's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:46:51 TRT 2023] [INFO] Karya's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:46:51 TRT 2023] [INFO] Umut's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:46:51 TRT 2023] [INFO] Yagiz's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:46:51 TRT 2023] [INFO] Yigit's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:46:51 TRT 2023] [INFO] Idil's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:46:51 TRT 2023] [INFO] Dila's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:46:51 TRT 2023] [INFO] Bullet's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:46:51 TRT 2023] [INFO] Excalibur's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:46:51 TRT 2023] [INFO] Ahmet's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:46:55 TRT 2023] [INFO] Ahmetreturned to their discovery page.
+[Cum May 26 10:47:18 TRT 2023] [INFO] Yagiz's media list is added to their profile.
+[Cum May 26 10:47:18 TRT 2023] [INFO] Ahmetvisited Yagiz's profile.
+[Cum May 26 10:47:20 TRT 2023] [INFO] Damla's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:20 TRT 2023] [INFO] Eren's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:20 TRT 2023] [INFO] Karya's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:20 TRT 2023] [INFO] Umut's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:20 TRT 2023] [INFO] Yagiz's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:20 TRT 2023] [INFO] Yigit's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:20 TRT 2023] [INFO] Idil's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:20 TRT 2023] [INFO] Dila's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:20 TRT 2023] [INFO] Bullet's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:20 TRT 2023] [INFO] Excalibur's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:20 TRT 2023] [INFO] Ahmet's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:23 TRT 2023] [INFO] Ahmetreturned to their discovery page.
+[Cum May 26 10:47:38 TRT 2023] [INFO] Ahmet visited their own profile page.
+[Cum May 26 10:47:43 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:47:43 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:47:43 TRT 2023] [INFO] Ahmet's content was successfully updated.
+[Cum May 26 10:47:43 TRT 2023] [INFO] Ahmet successfully removed a photo from their profile and the discovery page.
+[Cum May 26 10:47:45 TRT 2023] [INFO] Damla's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:45 TRT 2023] [INFO] Eren's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:45 TRT 2023] [INFO] Karya's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:45 TRT 2023] [INFO] Umut's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:45 TRT 2023] [INFO] Yagiz's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:45 TRT 2023] [INFO] Yigit's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:45 TRT 2023] [INFO] Idil's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:45 TRT 2023] [INFO] Dila's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:45 TRT 2023] [INFO] Bullet's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:45 TRT 2023] [INFO] Excalibur's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:45 TRT 2023] [INFO] Ahmet's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:48 TRT 2023] [INFO] Ahmet is now viewing the discover page.
+[Cum May 26 10:47:48 TRT 2023] [INFO] Damla's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:48 TRT 2023] [INFO] Eren's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:48 TRT 2023] [INFO] Karya's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:48 TRT 2023] [INFO] Umut's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:48 TRT 2023] [INFO] Yagiz's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:48 TRT 2023] [INFO] Yigit's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:48 TRT 2023] [INFO] Idil's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:48 TRT 2023] [INFO] Dila's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:48 TRT 2023] [INFO] Bullet's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:48 TRT 2023] [INFO] Excalibur's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:48 TRT 2023] [INFO] Ahmet's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:51 TRT 2023] [INFO] Ahmetreturned to their discovery page.
+[Cum May 26 10:47:51 TRT 2023] [INFO] Damla's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:51 TRT 2023] [INFO] Eren's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:51 TRT 2023] [INFO] Karya's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:51 TRT 2023] [INFO] Umut's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:51 TRT 2023] [INFO] Yagiz's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:51 TRT 2023] [INFO] Yigit's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:51 TRT 2023] [INFO] Idil's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:51 TRT 2023] [INFO] Dila's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:51 TRT 2023] [INFO] Bullet's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:51 TRT 2023] [INFO] Excalibur's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:51 TRT 2023] [INFO] Ahmet's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:47:53 TRT 2023] [INFO] Ahmetreturned to their discovery page.
+[Cum May 26 10:47:57 TRT 2023] [INFO] Damla's media list is added to their profile.
+[Cum May 26 10:47:57 TRT 2023] [INFO] Damla's media list is added to their profile.
+[Cum May 26 10:47:57 TRT 2023] [INFO] Damla's media list is added to their profile.
+[Cum May 26 10:47:57 TRT 2023] [INFO] Ahmetvisited Damla's profile.
+[Cum May 26 10:48:03 TRT 2023] [INFO] Damla's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:48:03 TRT 2023] [INFO] Eren's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:48:03 TRT 2023] [INFO] Karya's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:48:03 TRT 2023] [INFO] Umut's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:48:03 TRT 2023] [INFO] Yagiz's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:48:03 TRT 2023] [INFO] Yigit's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:48:03 TRT 2023] [INFO] Idil's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:48:03 TRT 2023] [INFO] Dila's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:48:03 TRT 2023] [INFO] Bullet's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:48:03 TRT 2023] [INFO] Excalibur's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:48:03 TRT 2023] [INFO] Ahmet's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:48:06 TRT 2023] [INFO] Ahmetreturned to their discovery page.
+[Cum May 26 10:48:08 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:48:08 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:48:08 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:48:08 TRT 2023] [INFO] Ahmet removed Damla's photo from the discover page and their profile.
+[Cum May 26 10:48:13 TRT 2023] [INFO] Damla's media list is added to their profile.
+[Cum May 26 10:48:13 TRT 2023] [INFO] Damla's media list is added to their profile.
+[Cum May 26 10:48:13 TRT 2023] [INFO] Ahmetvisited Damla's profile.
+[Cum May 26 10:48:21 TRT 2023] [INFO] Damla's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:48:21 TRT 2023] [INFO] Eren's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:48:21 TRT 2023] [INFO] Karya's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:48:21 TRT 2023] [INFO] Umut's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:48:21 TRT 2023] [INFO] Yagiz's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:48:21 TRT 2023] [INFO] Yigit's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:48:21 TRT 2023] [INFO] Idil's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:48:21 TRT 2023] [INFO] Dila's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:48:21 TRT 2023] [INFO] Bullet's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:48:21 TRT 2023] [INFO] Excalibur's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:48:21 TRT 2023] [INFO] Ahmet's photos are added to the discover page forAhmetto see.
+[Cum May 26 10:48:23 TRT 2023] [INFO] Ahmetreturned to their discovery page.
+[Cum May 26 10:48:45 TRT 2023] [INFO] User list serialized successfully!
+[Cum May 26 10:48:45 TRT 2023] [INFO] Media list serialized successfully!
+[Cum May 26 10:48:45 TRT 2023] [INFO] Ahmet liked Idil's photo.
+[Cum May 26 10:48:54 TRT 2023] [INFO] Application shutdown at [Cum May 26 10:48:54 TRT 2023]
+[Cmt May 27 17:13:57 TRT 2023] [INFO] User list deserialized successfully!
+[Cmt May 27 17:13:57 TRT 2023] [INFO] Media list deserialized successfully!
+[Cmt May 27 17:14:11 TRT 2023] [INFO] Damla's photos were successfully added to their profile page.
+[Cmt May 27 17:14:11 TRT 2023] [INFO] Damla's photos were successfully added to their profile page.
+[Cmt May 27 17:14:11 TRT 2023] [INFO] Damla has successfully logged in.
+[Cmt May 27 17:14:46 TRT 2023] [INFO] Damla chose a new profile photo.
+[Cmt May 27 17:14:47 TRT 2023] [INFO] Damla information updated succesfully.
+[Cmt May 27 17:14:47 TRT 2023] [INFO] User list serialized successfully!
+[Cmt May 27 17:14:51 TRT 2023] [INFO] Damla's photos are added to the discover page forDamlato see.
+[Cmt May 27 17:14:51 TRT 2023] [INFO] Eren's photos are added to the discover page forDamlato see.
+[Cmt May 27 17:14:51 TRT 2023] [INFO] Karya's photos are added to the discover page forDamlato see.
+[Cmt May 27 17:14:51 TRT 2023] [INFO] Umut's photos are added to the discover page forDamlato see.
+[Cmt May 27 17:14:51 TRT 2023] [INFO] Yagiz's photos are added to the discover page forDamlato see.
+[Cmt May 27 17:14:51 TRT 2023] [INFO] Yigit's photos are added to the discover page forDamlato see.
+[Cmt May 27 17:14:51 TRT 2023] [INFO] Idil's photos are added to the discover page forDamlato see.
+[Cmt May 27 17:14:51 TRT 2023] [INFO] Dila's photos are added to the discover page forDamlato see.
+[Cmt May 27 17:14:51 TRT 2023] [INFO] Bullet's photos are added to the discover page forDamlato see.
+[Cmt May 27 17:14:51 TRT 2023] [INFO] Excalibur's photos are added to the discover page forDamlato see.
+[Cmt May 27 17:14:51 TRT 2023] [INFO] Ahmet's photos are added to the discover page forDamlato see.
+[Cmt May 27 17:14:52 TRT 2023] [INFO] Damla is now viewing the discover page.
+[Cmt May 27 17:14:57 TRT 2023] [INFO] User list serialized successfully!
+[Cmt May 27 17:14:57 TRT 2023] [INFO] Media list serialized successfully!
+[Cmt May 27 17:14:57 TRT 2023] [INFO] Damla liked Damla's photo.
+[Cmt May 27 17:15:00 TRT 2023] [INFO] Media list serialized successfully!
+[Cmt May 27 17:15:00 TRT 2023] [INFO] User list serialized successfully!
+[Cmt May 27 17:15:03 TRT 2023] [INFO] Media list serialized successfully!
+[Cmt May 27 17:15:03 TRT 2023] [INFO] User list serialized successfully!
+[Cmt May 27 17:15:10 TRT 2023] [INFO] Eren's media list is added to their profile.
+[Cmt May 27 17:15:10 TRT 2023] [INFO] Damlavisited Eren's profile.
+[Cmt May 27 17:15:15 TRT 2023] [INFO] Damlareturned to their discovery page.
+[Cmt May 27 17:15:18 TRT 2023] [INFO] Karya's media list is added to their profile.
+[Cmt May 27 17:15:18 TRT 2023] [INFO] Damlavisited Karya's profile.
+[Cmt May 27 17:15:19 TRT 2023] [INFO] Damlareturned to their discovery page.
+[Cmt May 27 17:15:28 TRT 2023] [INFO] Damla visited their own profile page.
+[Cmt May 27 17:15:46 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_computer.jpeg
+[Cmt May 27 17:15:46 TRT 2023] [INFO] User list serialized successfully!
+[Cmt May 27 17:15:46 TRT 2023] [INFO] Damla's content was successfully updated.
+[Cmt May 27 17:15:46 TRT 2023] [INFO] Damla uploaded a private photo.
+[Cmt May 27 17:15:48 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_computer.jpeg
+[Cmt May 27 17:15:48 TRT 2023] [INFO] Edit frame is openedd.
+[Cmt May 27 17:15:54 TRT 2023] [INFO] Image successfully converted to image matrix.
+[Cmt May 27 17:15:55 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_computer.jpeg
+[Cmt May 27 17:15:59 TRT 2023] [INFO] Image successfully converted to image matrix.
+[Cmt May 27 17:15:59 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_Editedcopy_of_computer.jpeg
+[Cmt May 27 17:16:01 TRT 2023] [INFO] Image successfully converted to image matrix.
+[Cmt May 27 17:16:01 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_Editedcopy_of_Editedcopy_of_computer.jpeg
+[Cmt May 27 17:16:04 TRT 2023] [INFO] Image successfully converted to image matrix.
+[Cmt May 27 17:16:04 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_Editedcopy_of_Editedcopy_of_Editedcopy_of_computer.jpeg
+[Cmt May 27 17:16:13 TRT 2023] [INFO] Image successfully converted to image matrix.
+[Cmt May 27 17:16:13 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_Editedcopy_of_Editedcopy_of_Editedcopy_of_Editedcopy_of_computer.jpeg
+[Cmt May 27 17:16:16 TRT 2023] [INFO] Media list serialized successfully!
+[Cmt May 27 17:16:16 TRT 2023] [INFO] Damla's content was successfully updated.
+[Cmt May 27 17:16:16 TRT 2023] [INFO] Media list serialized successfully!
+[Cmt May 27 17:16:20 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_Editedcopy_of_Editedcopy_of_tiger.jpg
+[Cmt May 27 17:16:20 TRT 2023] [INFO] Edit frame is openedd.
+[Cmt May 27 17:16:24 TRT 2023] [INFO] Image successfully converted to image matrix.
+[Cmt May 27 17:16:28 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_Editedcopy_of_Editedcopy_of_Editedcopy_of_tiger.jpg
+[Cmt May 27 17:16:33 TRT 2023] [INFO] Image successfully converted to image matrix.
+[Cmt May 27 17:16:34 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_Editedcopy_of_Editedcopy_of_Editedcopy_of_Editedcopy_of_tiger.jpg
+[Cmt May 27 17:16:46 TRT 2023] [INFO] Application shutdown at [Cmt May 27 17:16:46 TRT 2023]
+[Cmt May 27 19:41:25 TRT 2023] [INFO] User list deserialized successfully!
+[Cmt May 27 19:41:25 TRT 2023] [INFO] Media list deserialized successfully!
+[Cmt May 27 19:42:20 TRT 2023] [INFO] User chose a profile photo.
+[Cmt May 27 19:42:22 TRT 2023] [INFO] User list serialized successfully!
+[Cmt May 27 19:42:22 TRT 2023] [INFO] Media list serialized successfully!
+[Cmt May 27 19:42:22 TRT 2023] [INFO] User signed up successfully.
+[Cmt May 27 19:42:22 TRT 2023] [INFO] User is viewing their profile page.
+[Cmt May 27 19:42:52 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_bbq.jpeg
+[Cmt May 27 19:42:52 TRT 2023] [INFO] User list serialized successfully!
+[Cmt May 27 19:42:52 TRT 2023] [INFO] 007's content was successfully updated.
+[Cmt May 27 19:42:52 TRT 2023] [INFO] 007 uploaded a private photo.
+[Cmt May 27 19:42:58 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_bbq.jpeg
+[Cmt May 27 19:42:59 TRT 2023] [INFO] Edit frame is openedd.
+[Cmt May 27 19:43:04 TRT 2023] [INFO] Image successfully converted to image matrix.
+[Cmt May 27 19:43:04 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_bbq.jpeg
+[Cmt May 27 19:43:08 TRT 2023] [INFO] Image successfully converted to image matrix.
+[Cmt May 27 19:43:09 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_Editedcopy_of_bbq.jpeg
+[Cmt May 27 19:43:11 TRT 2023] [INFO] Image successfully converted to image matrix.
+[Cmt May 27 19:43:11 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_Editedcopy_of_Editedcopy_of_bbq.jpeg
+[Cmt May 27 19:43:14 TRT 2023] [INFO] Image successfully converted to image matrix.
+[Cmt May 27 19:43:14 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_Editedcopy_of_Editedcopy_of_Editedcopy_of_bbq.jpeg
+[Cmt May 27 19:43:19 TRT 2023] [INFO] User list serialized successfully!
+[Cmt May 27 19:43:19 TRT 2023] [INFO] 007's content was successfully updated.
+[Cmt May 27 19:43:19 TRT 2023] [INFO] Media list serialized successfully!
+[Cmt May 27 19:43:22 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_bbq.jpeg
+[Cmt May 27 19:43:22 TRT 2023] [INFO] Edit frame is openedd.
+[Cmt May 27 19:43:25 TRT 2023] [INFO] Image successfully converted to image matrix.
+[Cmt May 27 19:43:26 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_bbq.jpeg
+[Cmt May 27 19:43:28 TRT 2023] [INFO] User list serialized successfully!
+[Cmt May 27 19:43:28 TRT 2023] [INFO] 007's content was successfully updated.
+[Cmt May 27 19:43:28 TRT 2023] [INFO] Media list serialized successfully!
+[Cmt May 27 19:43:31 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_bbq.jpeg
+[Cmt May 27 19:43:31 TRT 2023] [INFO] Edit frame is openedd.
+[Cmt May 27 19:43:34 TRT 2023] [INFO] Image successfully converted to image matrix.
+[Cmt May 27 19:43:34 TRT 2023] [INFO] Image was successfully copied to Editedcopy_of_Editedcopy_of_Editedcopy_of_bbq.jpeg
+[Cmt May 27 19:43:38 TRT 2023] [INFO] User list serialized successfully!
+[Cmt May 27 19:43:38 TRT 2023] [INFO] 007's content was successfully updated.
+[Cmt May 27 19:43:38 TRT 2023] [INFO] Media list serialized successfully!
+[Cmt May 27 19:44:05 TRT 2023] [INFO] Media list serialized successfully!
+[Cmt May 27 19:44:05 TRT 2023] [INFO] User list serialized successfully!
+[Cmt May 27 19:44:14 TRT 2023] [INFO] Media list serialized successfully!
+[Cmt May 27 19:44:14 TRT 2023] [INFO] Media list serialized successfully!
+[Cmt May 27 19:44:14 TRT 2023] [INFO] User list serialized successfully!
+[Cmt May 27 19:44:16 TRT 2023] [INFO] Damla's photos are added to the discover page for007to see.
+[Cmt May 27 19:44:16 TRT 2023] [INFO] Eren's photos are added to the discover page for007to see.
+[Cmt May 27 19:44:16 TRT 2023] [INFO] Karya's photos are added to the discover page for007to see.
+[Cmt May 27 19:44:16 TRT 2023] [INFO] Umut's photos are added to the discover page for007to see.
+[Cmt May 27 19:44:16 TRT 2023] [INFO] Yagiz's photos are added to the discover page for007to see.
+[Cmt May 27 19:44:16 TRT 2023] [INFO] Yigit's photos are added to the discover page for007to see.
+[Cmt May 27 19:44:16 TRT 2023] [INFO] Idil's photos are added to the discover page for007to see.
+[Cmt May 27 19:44:16 TRT 2023] [INFO] Dila's photos are added to the discover page for007to see.
+[Cmt May 27 19:44:16 TRT 2023] [INFO] Bullet's photos are added to the discover page for007to see.
+[Cmt May 27 19:44:16 TRT 2023] [INFO] Excalibur's photos are added to the discover page for007to see.
+[Cmt May 27 19:44:16 TRT 2023] [INFO] Ahmet's photos are added to the discover page for007to see.
+[Cmt May 27 19:44:16 TRT 2023] [INFO] 007's photos are added to the discover page for007to see.
+[Cmt May 27 19:44:18 TRT 2023] [INFO] 007 is now viewing the discover page.
+[Cmt May 27 19:44:34 TRT 2023] [INFO] Media list serialized successfully!
+[Cmt May 27 19:44:34 TRT 2023] [INFO] User list serialized successfully!
+[Cmt May 27 19:44:36 TRT 2023] [INFO] 007viewed 007's photo on a seperate frame.
+[Cmt May 27 19:44:38 TRT 2023] [INFO] 007viewed 007's photo on a seperate frame.
+[Cmt May 27 19:44:40 TRT 2023] [INFO] 007viewed 007's photo on a seperate frame.
+[Cmt May 27 19:44:46 TRT 2023] [INFO] User list serialized successfully!
+[Cmt May 27 19:44:46 TRT 2023] [INFO] Media list serialized successfully!
+[Cmt May 27 19:44:46 TRT 2023] [INFO] 007 liked 007's photo.
+[Cmt May 27 19:44:52 TRT 2023] [INFO] User list serialized successfully!
+[Cmt May 27 19:44:52 TRT 2023] [INFO] Media list serialized successfully!
+[Cmt May 27 19:44:52 TRT 2023] [INFO] 007 liked Idil's photo.
+[Cmt May 27 19:44:54 TRT 2023] [INFO] Media list serialized successfully!
+[Cmt May 27 19:44:54 TRT 2023] [INFO] User list serialized successfully!
+[Cmt May 27 19:45:04 TRT 2023] [INFO] Media list serialized successfully!
+[Cmt May 27 19:45:05 TRT 2023] [INFO] User list serialized successfully!
+[Cmt May 27 19:45:05 TRT 2023] [INFO] User list serialized successfully!
+[Cmt May 27 19:45:05 TRT 2023] [INFO] 007 removed 007's photo from the discover page and their profile.
+[Cmt May 27 19:45:06 TRT 2023] [INFO] 007's media list is added to their profile.
+[Cmt May 27 19:45:06 TRT 2023] [INFO] 007's media list is added to their profile.
+[Cmt May 27 19:45:06 TRT 2023] [INFO] 007's media list is added to their profile.
+[Cmt May 27 19:45:06 TRT 2023] [INFO] 007visited 007's profile.
+[Cmt May 27 19:45:08 TRT 2023] [INFO] Damla's photos are added to the discover page for007to see.
+[Cmt May 27 19:45:08 TRT 2023] [INFO] Eren's photos are added to the discover page for007to see.
+[Cmt May 27 19:45:08 TRT 2023] [INFO] Karya's photos are added to the discover page for007to see.
+[Cmt May 27 19:45:08 TRT 2023] [INFO] Umut's photos are added to the discover page for007to see.
+[Cmt May 27 19:45:08 TRT 2023] [INFO] Yagiz's photos are added to the discover page for007to see.
+[Cmt May 27 19:45:08 TRT 2023] [INFO] Yigit's photos are added to the discover page for007to see.
+[Cmt May 27 19:45:08 TRT 2023] [INFO] Idil's photos are added to the discover page for007to see.
+[Cmt May 27 19:45:08 TRT 2023] [INFO] Dila's photos are added to the discover page for007to see.
+[Cmt May 27 19:45:08 TRT 2023] [INFO] Bullet's photos are added to the discover page for007to see.
+[Cmt May 27 19:45:08 TRT 2023] [INFO] Excalibur's photos are added to the discover page for007to see.
+[Cmt May 27 19:45:08 TRT 2023] [INFO] Ahmet's photos are added to the discover page for007to see.
+[Cmt May 27 19:45:08 TRT 2023] [INFO] 007's photos are added to the discover page for007to see.
+[Cmt May 27 19:45:10 TRT 2023] [INFO] 007returned to their discovery page.
+[Cmt May 27 19:45:36 TRT 2023] [INFO] 007 visited 007's profile.
+[Cmt May 27 19:45:36 TRT 2023] [INFO] Idil's media list is added to their profile.
+[Cmt May 27 19:45:38 TRT 2023] [INFO] Damla's photos are added to the discover page for007to see.
+[Cmt May 27 19:45:38 TRT 2023] [INFO] Eren's photos are added to the discover page for007to see.
+[Cmt May 27 19:45:38 TRT 2023] [INFO] Karya's photos are added to the discover page for007to see.
+[Cmt May 27 19:45:38 TRT 2023] [INFO] Umut's photos are added to the discover page for007to see.
+[Cmt May 27 19:45:38 TRT 2023] [INFO] Yagiz's photos are added to the discover page for007to see.
+[Cmt May 27 19:45:38 TRT 2023] [INFO] Yigit's photos are added to the discover page for007to see.
+[Cmt May 27 19:45:38 TRT 2023] [INFO] Idil's photos are added to the discover page for007to see.
+[Cmt May 27 19:45:38 TRT 2023] [INFO] Dila's photos are added to the discover page for007to see.
+[Cmt May 27 19:45:38 TRT 2023] [INFO] Bullet's photos are added to the discover page for007to see.
+[Cmt May 27 19:45:38 TRT 2023] [INFO] Excalibur's photos are added to the discover page for007to see.
+[Cmt May 27 19:45:38 TRT 2023] [INFO] Ahmet's photos are added to the discover page for007to see.
+[Cmt May 27 19:45:38 TRT 2023] [INFO] 007's photos are added to the discover page for007to see.
+[Cmt May 27 19:45:40 TRT 2023] [INFO] 007returned to their discovery page.
+[Cmt May 27 19:45:40 TRT 2023] [INFO] Damla's photos are added to the discover page for007to see.
+[Cmt May 27 19:45:40 TRT 2023] [INFO] Eren's photos are added to the discover page for007to see.
+[Cmt May 27 19:45:40 TRT 2023] [INFO] Karya's photos are added to the discover page for007to see.
+[Cmt May 27 19:45:40 TRT 2023] [INFO] Umut's photos are added to the discover page for007to see.
+[Cmt May 27 19:45:40 TRT 2023] [INFO] Yagiz's photos are added to the discover page for007to see.
+[Cmt May 27 19:45:40 TRT 2023] [INFO] Yigit's photos are added to the discover page for007to see.
+[Cmt May 27 19:45:40 TRT 2023] [INFO] Idil's photos are added to the discover page for007to see.
+[Cmt May 27 19:45:40 TRT 2023] [INFO] Dila's photos are added to the discover page for007to see.
+[Cmt May 27 19:45:40 TRT 2023] [INFO] Bullet's photos are added to the discover page for007to see.
+[Cmt May 27 19:45:40 TRT 2023] [INFO] Excalibur's photos are added to the discover page for007to see.
+[Cmt May 27 19:45:40 TRT 2023] [INFO] Ahmet's photos are added to the discover page for007to see.
+[Cmt May 27 19:45:40 TRT 2023] [INFO] 007's photos are added to the discover page for007to see.
+[Cmt May 27 19:45:42 TRT 2023] [INFO] 007returned to their discovery page.
+[Cmt May 27 19:45:43 TRT 2023] [INFO] 007viewed Damla's photo on a seperate frame.
+[Cmt May 27 19:45:46 TRT 2023] [INFO] Application shutdown at [Cmt May 27 19:45:46 TRT 2023]
+[Paz Eki 22 16:03:06 TRT 2023] [INFO] User list deserialized successfully!
+[Paz Eki 22 16:03:07 TRT 2023] [INFO] Media list deserialized successfully!
+[Paz Eki 22 16:04:05 TRT 2023] [INFO] User chose a profile photo.
+[Paz Eki 22 16:04:18 TRT 2023] [INFO] User list serialized successfully!
+[Paz Eki 22 16:04:18 TRT 2023] [INFO] Media list serialized successfully!
+[Paz Eki 22 16:04:18 TRT 2023] [INFO] User signed up successfully.
+[Paz Eki 22 16:04:18 TRT 2023] [INFO] User is viewing their profile page.
+[Paz Eki 22 16:04:20 TRT 2023] [INFO] Damla's photos are added to the discover page fornewto see.
+[Paz Eki 22 16:04:20 TRT 2023] [INFO] Eren's photos are added to the discover page fornewto see.
+[Paz Eki 22 16:04:20 TRT 2023] [INFO] Karya's photos are added to the discover page fornewto see.
+[Paz Eki 22 16:04:20 TRT 2023] [INFO] Umut's photos are added to the discover page fornewto see.
+[Paz Eki 22 16:04:20 TRT 2023] [INFO] Yagiz's photos are added to the discover page fornewto see.
+[Paz Eki 22 16:04:20 TRT 2023] [INFO] Yigit's photos are added to the discover page fornewto see.
+[Paz Eki 22 16:04:20 TRT 2023] [INFO] Idil's photos are added to the discover page fornewto see.
+[Paz Eki 22 16:04:20 TRT 2023] [INFO] Dila's photos are added to the discover page fornewto see.
+[Paz Eki 22 16:04:20 TRT 2023] [INFO] Bullet's photos are added to the discover page fornewto see.
+[Paz Eki 22 16:04:20 TRT 2023] [INFO] Excalibur's photos are added to the discover page fornewto see.
+[Paz Eki 22 16:04:20 TRT 2023] [INFO] Ahmet's photos are added to the discover page fornewto see.
+[Paz Eki 22 16:04:20 TRT 2023] [INFO] 007's photos are added to the discover page fornewto see.
+[Paz Eki 22 16:04:20 TRT 2023] [INFO] new's photos are added to the discover page fornewto see.
+[Paz Eki 22 16:04:21 TRT 2023] [INFO] new is now viewing the discover page.
+[Paz Eki 22 16:04:32 TRT 2023] [INFO] Media list serialized successfully!
+[Paz Eki 22 16:04:32 TRT 2023] [INFO] User list serialized successfully!
+[Paz Eki 22 16:04:35 TRT 2023] [INFO] Media list serialized successfully!
+[Paz Eki 22 16:04:35 TRT 2023] [INFO] User list serialized successfully!
+[Paz Eki 22 16:04:38 TRT 2023] [INFO] Media list serialized successfully!
+[Paz Eki 22 16:04:38 TRT 2023] [INFO] User list serialized successfully!
+[Paz Eki 22 16:04:43 TRT 2023] [INFO] Media list serialized successfully!
+[Paz Eki 22 16:04:43 TRT 2023] [INFO] User list serialized successfully!
+[Paz Eki 22 16:04:47 TRT 2023] [INFO] Media list serialized successfully!
+[Paz Eki 22 16:04:47 TRT 2023] [INFO] User list serialized successfully!
+[Paz Eki 22 16:04:51 TRT 2023] [INFO] Media list serialized successfully!
+[Paz Eki 22 16:04:51 TRT 2023] [INFO] User list serialized successfully!
+[Paz Eki 22 16:04:53 TRT 2023] [INFO] Media list serialized successfully!
+[Paz Eki 22 16:04:53 TRT 2023] [INFO] User list serialized successfully!
+[Paz Eki 22 16:04:58 TRT 2023] [INFO] Media list serialized successfully!
+[Paz Eki 22 16:04:58 TRT 2023] [INFO] User list serialized successfully!
+[Paz Eki 22 16:05:01 TRT 2023] [INFO] Media list serialized successfully!
+[Paz Eki 22 16:05:01 TRT 2023] [INFO] User list serialized successfully!
+[Paz Eki 22 16:05:04 TRT 2023] [INFO] Media list serialized successfully!
+[Paz Eki 22 16:05:04 TRT 2023] [INFO] User list serialized successfully!
+[Paz Eki 22 16:05:07 TRT 2023] [INFO] newviewed Karya's photo on a seperate frame.
+[Paz Eki 22 16:05:11 TRT 2023] [INFO] Media list serialized successfully!
+[Paz Eki 22 16:05:11 TRT 2023] [INFO] User list serialized successfully!
+[Paz Eki 22 16:05:18 TRT 2023] [INFO] 007's media list is added to their profile.
+[Paz Eki 22 16:05:18 TRT 2023] [INFO] new visited new's profile.
+[Paz Eki 22 16:05:22 TRT 2023] [INFO] newreturned to their discovery page.
+[Paz Eki 22 16:05:27 TRT 2023] [INFO] new visited new's profile.
+[Paz Eki 22 16:05:30 TRT 2023] [INFO] newreturned to their discovery page.
+[Paz Eki 22 16:05:31 TRT 2023] [INFO] Application shutdown at [Paz Eki 22 16:05:31 TRT 2023]
